@@ -48,6 +48,7 @@ fe534ae0-705d-4da0-9be3-2cca07624486,Richard Takáč - poslanec NR SR,2023-02-12
 478ceb26-16ae-44f7-8ba0-98bf97566c29,Ministerstvo kultúry Slovenskej republiky,2023-02-10T10:55:19.603Z,05c08a42-5eb3-4f55-bd47-d5faaf9848ea,Vlá,Slovakia,sk,156804601028134,Ministerstvo kultúry Slovenskej republiky,Facebook
 d82c5e75-49a1-4c82-b2d9-83836c1f5571,Nagy József,2023-02-11T10:54:57.226Z,2670d431-8389-4ebf-85c0-859c3c3a3564,Ost,Slovakia,sk,128401833854581,Nagy József,Facebook
 d7679939-4767-4314-929a-ea0c61a63010,Peter Blaškovitš,2023-02-10T10:55:19.666Z,b199856c-fe09-4bf5-8ad2-d62adee345c3,Ost,Slovakia,sk,105354890829567,Peter Blaškovitš,Facebook
+a0dd53bb-9184-4381-9397-48d91e11af18,Úrad na ochranu oznamovateľov,2023-02-10T10:55:19.628Z,1ef6454b-1437-4ec1-9768-d350f831203d,Vlá,Slovakia,sk,104936221959583,Úrad na ochranu oznamovateľov,Facebook
 4cbde0a3-3863-4aa2-91d3-e229e751b5d9,Vojtech TÓTH - Viac pre Východ,2023-10-01T05:09:01.487Z,e5e43344-adb2-4277-80bc-54800c3c8980,OLaNO,Slovakia,sk,585144531521016,Vojtech TÓTH - Viac pre Východ,Facebook
 c9fa275e-a672-43a9-841b-91998a39eaea,Szövetség Érsekújvári járás,2023-09-26T05:10:38.180Z,91bc5a4f-32a1-42be-93ad-ba20886837d2,A-S,Slovakia,sk,148882081880955,Szövetség Érsekújvári járás,Facebook
 019f8569-7505-445d-8ac7-5f4ec8a1ee7c,Michal Božek,2023-09-28T05:08:42.140Z,515535bb-3f91-4ad9-9588-2a3df1485163,SASKA,Slovakia,sk,112957455147409,Michal Božek,Facebook
@@ -130,148 +131,146 @@ f826f465-9af6-433b-93de-2ab6a9a978d1,Petra Krištúfková,2023-02-08T05:55:41.64
 73bbfff9-a983-490e-afb6-5cee7aa81fd7,Slovenský Patriot - politická strana,2023-02-08T05:55:41.690Z,21546e6c-dc73-41bd-a333-2de7c3302550,Ost,Slovakia,sk,102227341615671,Slovenský Patriot - politická strana,Facebook
 501d4ee5-a844-4df3-9429-db583010b973,"Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",2023-02-08T05:55:41.648Z,7abad2fe-b107-4e03-a02a-34afddeac7bd,Vlá,Slovakia,sk,409652449379928,"Ministerstvo investícií, regionálneho rozvoja a informatizácie SR",Facebook
 4f7e4218-2308-4c49-8ca1-a933b7b430f8,"Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky",2023-02-08T05:55:41.658Z,20083d74-d83e-4bc5-9b54-96038b8a424b,Vlá,Slovakia,sk,482492355256037,"Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky",Facebook
-630f8875-1ac0-4c0d-a2b0-2ba1985b737e,Gyimesi György - NRSR,2023-02-08T05:55:41.660Z,0666fa47-9a8c-4248-a47c-b5d5b02d959c,OLaNO,Slovakia,sk,102200698451761,Gyimesi György - NRSR,Facebook
 df6ec197-5133-47d3-8d03-feaf435a78af,Kaufland Slovenská republika,2023-02-20T10:55:24.137Z,f6e32db3-b5fa-4d8f-9ab5-ee8d23f4f214,R,Slovakia,sk,484734501561007,Kaufland Slovenská republika,Facebook
 99461cae-e89c-4125-8bcf-c5c15ffea27b,Ministerstvo zahraničných vecí a európskych záležitostí SR,2023-02-08T05:55:41.661Z,0fec22c2-9917-47e1-bafa-591ed71f28ad,Vlá,Slovakia,sk,141217272588202,Ministerstvo zahraničných vecí a európskych záležitostí SR,Facebook
-ba1242fb-f200-4db0-b509-a4d13d4d3f5b,Úrad vlády Slovenskej republiky,2023-02-08T05:55:41.661Z,86725292-f8b4-43b9-ba07-297cab341961,Vlá,Slovakia,sk,2308492039426614,Úrad vlády Slovenskej republiky,Facebook
-cae7ceee-d2b1-47fe-91f8-e2a9fb4c5a8a,Milan Uhrík • Republika,2023-02-08T05:55:41.674Z,2aaff136-ea1e-4fd0-b3e4-f66424d1c727,Ost,Slovakia,sk,193258414360612,Milan Uhrík • Republika,Facebook
+630f8875-1ac0-4c0d-a2b0-2ba1985b737e,Gyimesi György - NRSR,2023-02-08T05:55:41.660Z,0666fa47-9a8c-4248-a47c-b5d5b02d959c,OLaNO,Slovakia,sk,102200698451761,Gyimesi György - NRSR,Facebook
 425912bf-8bc4-4ce8-ba94-02d0ad60e3a8,JUDr. Renáta Endrödyová - poslankyňa MsZ Lučenec,2023-02-13T10:55:21.268Z,b7f1f8fb-37e8-4031-a282-25393835da97,Ost,Slovakia,sk,1852911158124783,JUDr. Renáta Endrödyová - poslankyňa MsZ Lučenec,Facebook
 d924a742-a025-4d9c-94af-b8b5cb8b8c6d,Spolu sme Sobota,2023-02-13T10:55:21.254Z,8b7b8037-b2ee-4dfd-9ae4-11fa638771d0,Ost,Slovakia,sk,255902481771819,Spolu sme Sobota,Facebook
-965e40c8-0d76-4cbf-b5b4-2c43445e19c2,Jakub Bodorík - poslanec mesta Zvolen,2023-02-13T10:55:21.218Z,a2372850-c01b-44f9-b52e-1f0879f29037,Ost,Slovakia,sk,108127562038196,Jakub Bodorík - poslanec mesta Zvolen,Facebook
-17d065a3-e7ac-42fa-8095-78f2726ba954,Ábel Ravasz,2023-02-13T10:55:21.135Z,edce701b-9ec3-4aee-9450-5d14ffb521f1,Ost,Slovakia,sk,978554185546219,Ábel Ravasz,Facebook
-556a6a02-59c5-4771-8c43-d21e1e480e61,Mózes Szabolcs,2023-02-13T10:55:21.135Z,94b6145e-a66c-4a16-ad64-e5d2055c7948,Ost,Slovakia,sk,106918014077172,Mózes Szabolcs,Facebook
-0a91d6db-167d-44a3-b6c3-b31e85dab7ce,Richard Glück,2023-02-12T10:55:05.239Z,fb5db1ba-7ba9-4d0f-9555-1e1a89de4e26,SMER,Slovakia,sk,105696625616469,Richard Glück,Facebook
+ba1242fb-f200-4db0-b509-a4d13d4d3f5b,Úrad vlády Slovenskej republiky,2023-02-08T05:55:41.661Z,86725292-f8b4-43b9-ba07-297cab341961,Vlá,Slovakia,sk,2308492039426614,Úrad vlády Slovenskej republiky,Facebook
+cae7ceee-d2b1-47fe-91f8-e2a9fb4c5a8a,Milan Uhrík • Republika,2023-02-08T05:55:41.674Z,2aaff136-ea1e-4fd0-b3e4-f66424d1c727,Ost,Slovakia,sk,193258414360612,Milan Uhrík • Republika,Facebook
 23800138-28db-4bf8-ad28-8aeda28c018f,Milan Mazurek • Republika,2023-03-31T10:55:38.580Z,f8157b01-0280-422b-8107-8bee10a12036,R,Slovakia,sk,207289726707929,Milan Mazurek • Republika,Facebook
 b011ed6f-6bf6-4620-a569-55e30df430ec,KDH Bratislava3,2023-04-26T06:55:31.450Z,175f3822-c447-434c-ae2c-dca4e64f1607,KDH,Slovakia,sk,115236661161471,KDH Bratislava3,Facebook
+965e40c8-0d76-4cbf-b5b4-2c43445e19c2,Jakub Bodorík - poslanec mesta Zvolen,2023-02-13T10:55:21.218Z,a2372850-c01b-44f9-b52e-1f0879f29037,Ost,Slovakia,sk,108127562038196,Jakub Bodorík - poslanec mesta Zvolen,Facebook
 926d792c-c0aa-4f82-a342-62dcf8b82721,Erik Tomáš,2023-02-08T05:55:41.679Z,820c2249-f4b6-4597-ba97-544b3aebaab8,HLAS,Slovakia,sk,256241975019809,Erik Tomáš,Facebook
 15c3dfbc-d105-4037-8eea-2ca315cbc107,Jaro Polaček,2023-02-08T05:55:41.701Z,2f7c4869-aa51-42c5-8820-5a7ff044f1b1,Ost,Slovakia,sk,2001358070115171,Jaro Polaček,Facebook
+17d065a3-e7ac-42fa-8095-78f2726ba954,Ábel Ravasz,2023-02-13T10:55:21.135Z,edce701b-9ec3-4aee-9450-5d14ffb521f1,Ost,Slovakia,sk,978554185546219,Ábel Ravasz,Facebook
 41d3c78e-ba35-4599-a454-0bf0034f8a45,KDH,2023-02-09T06:29:42.419Z,ef34dd26-3288-44ca-aa4b-5c3c4f488501,Ost,Slovakia,sk,163449818290,KDH,Facebook
 d1dd0f3c-e475-4d1e-b27f-6ee157f41743,Milan Majerský,2023-02-09T06:29:42.419Z,ca52f793-b828-4ab8-9791-1dc4561d3954,Ost,Slovakia,sk,309315359104222,Milan Majerský,Facebook
+556a6a02-59c5-4771-8c43-d21e1e480e61,Mózes Szabolcs,2023-02-13T10:55:21.135Z,94b6145e-a66c-4a16-ad64-e5d2055c7948,Ost,Slovakia,sk,106918014077172,Mózes Szabolcs,Facebook
 82ee48a7-cda0-447a-9d23-aa6bf46b941d,Michal Bartek,2023-02-08T05:55:41.691Z,f9bde1ba-7d21-439b-b73d-69b2bdb450f6,HLAS,Slovakia,sk,105603301203054,Michal Bartek,Facebook
 f889332e-cb2c-47de-b7ad-51e47a981ee6,Miroslav Radačovský • predseda strany Slovenský Patriot a europoslanec,2023-02-08T05:55:41.715Z,63928f70-7595-453b-81bb-74c8c77e3923,Ost,Slovakia,sk,730919327293761,Miroslav Radačovský • predseda strany Slovenský Patriot a europoslanec,Facebook
+0a91d6db-167d-44a3-b6c3-b31e85dab7ce,Richard Glück,2023-02-12T10:55:05.239Z,fb5db1ba-7ba9-4d0f-9555-1e1a89de4e26,SMER,Slovakia,sk,105696625616469,Richard Glück,Facebook
 f6f1ce56-e7fd-4e35-9d77-c9b486acad2b,Ladislav Kamenický,2023-02-08T05:55:41.872Z,92c34cc8-c32f-42a9-b2e5-822fa0652db8,SMER,Slovakia,sk,2322076957827734,Ladislav Kamenický,Facebook
 962a1a72-5fc5-4108-8d9e-0b09d2d1b41c,Cziprusz Zoltán,2023-02-12T10:55:05.134Z,f27f7a60-d0b0-4606-b5b5-4652745346ca,Ost,Slovakia,sk,1625320827727426,Cziprusz Zoltán,Facebook
-b1582e59-6e5d-44f3-b8e8-754a16cfd73e,Tomáš Merašický,2023-02-09T06:29:42.535Z,9390d0a7-c69c-4055-ac93-67fe09616189,Ost,Slovakia,sk,103010318316057,Tomáš Merašický,Facebook
 41cf6cf8-ab88-46e8-93b7-b579653f60fe,Anna Laurinec Šmehilová,2023-07-18T06:08:48.378Z,718f04d1-1850-41ad-9824-97f5527bebf2,KDH,Slovakia,sk,942741555816368,Anna Laurinec Šmehilová,Facebook
+b1582e59-6e5d-44f3-b8e8-754a16cfd73e,Tomáš Merašický,2023-02-09T06:29:42.535Z,9390d0a7-c69c-4055-ac93-67fe09616189,Ost,Slovakia,sk,103010318316057,Tomáš Merašický,Facebook
 2b40d01e-adc1-4475-b4b6-b8eed35d1611,Igor Janckulík - KDH,2023-06-19T18:26:44.198Z,70ac0ad6-c251-4a92-b41e-a881f7c9c005,KDH,Slovakia,sk,826305747496237,Igor Janckulík - KDH,Facebook
-cd580102-b596-4a78-b87e-07037c8ab066,JUDr. Stanislav Genčúr • KDH - kandidát č. 53,2023-07-17T06:33:44.554Z,8b0c712b-b7ea-459a-b4c8-6be84b445778,KDH,Slovakia,sk,114054693393180,JUDr. Stanislav Genčúr • KDH - kandidát č. 53,Facebook
 6a38e549-4df3-4630-a3f8-aee619994969,Anna Zemanová,2023-02-26T10:55:31.843Z,cf6628c5-4494-4dbf-826d-4a3bbff45c02,SASKA,Slovakia,sk,301188353351405,Anna Zemanová,Facebook
+cd580102-b596-4a78-b87e-07037c8ab066,JUDr. Stanislav Genčúr • KDH - kandidát č. 53,2023-07-17T06:33:44.554Z,8b0c712b-b7ea-459a-b4c8-6be84b445778,KDH,Slovakia,sk,114054693393180,JUDr. Stanislav Genčúr • KDH - kandidát č. 53,Facebook
 68d41c18-a21f-496a-852e-16f44d6ddfe7,Braňo Obal,2023-02-22T10:55:33.281Z,840fd1e7-e1db-4190-95dd-2879bb2f6740,KDH,Slovakia,sk,480380272431491,Braňo Obal,Facebook
 06e82750-8257-4958-8ee4-6062bf8897d2,Brinzik Angéla,2023-04-10T10:54:54.160Z,992ace1c-93ec-4c06-8050-057349f3d5ac,A-S,Slovakia,sk,104541799080705,Brinzik Angéla,Facebook
 27ddcc24-e1c4-494c-adbd-a3eea51588d3,HLAS - sociálna demokracia/ŽILINSKÝ KRAJ,2023-08-12T05:09:20.748Z,ac42a1bf-7ec0-43b7-85de-ed7bebd91a91,HLAS,Slovakia,sk,101303498335561,HLAS - sociálna demokracia/ŽILINSKÝ KRAJ,Facebook
-e51607aa-8937-4c09-a2a6-f8908dc6daca,Roman Michelko,2023-07-05T06:09:07.185Z,536ed81a-d720-47e1-b341-4dfa0742638c,SNS,Slovakia,sk,367380017436383,Roman Michelko,Facebook
-5669c34c-3540-4000-8503-21d335df7096,Demagog.SK,2023-06-19T18:26:44.476Z,986e5579-2f5a-4cab-b921-90a67a2500bf,Méd,Slovakia,sk,336630421641,Demagog.SK,Facebook
 0db4df1a-76c2-4423-96b1-a3338f3e2684,Denisa Saková,2023-03-18T10:55:25.793Z,d29bbb02-dc15-4f24-9fe8-6b9bea8b0041,HLAS,Slovakia,sk,816383341890046,Denisa Saková,Facebook
+e51607aa-8937-4c09-a2a6-f8908dc6daca,Roman Michelko,2023-07-05T06:09:07.185Z,536ed81a-d720-47e1-b341-4dfa0742638c,SNS,Slovakia,sk,367380017436383,Roman Michelko,Facebook
 1a0d4cda-9edc-4f36-8791-e8e3a672d17a,Jozef Hajko,2023-07-25T05:09:24.572Z,2a8bc80e-abba-498c-995e-4bf0a7385df3,KDH,Slovakia,sk,103720806125628,Jozef Hajko,Facebook
-7d3bb039-c515-4e06-8dce-c753c6e5352a,František Majerský - Poprad a Slovensko na 1. mieste,2023-08-18T05:08:59.367Z,75979d0c-8075-4ce7-95ac-71982783460e,KDH,Slovakia,sk,108494287234821,František Majerský - Poprad a Slovensko na 1. mieste,Facebook
-023d91d6-aba5-4aae-876a-6d724855fb7d,Marek Michalčík,2023-08-08T05:08:42.481Z,f62fb0fa-98d6-4782-8673-a4c4cfa64d3e,KDH,Slovakia,sk,988525254539935,Marek Michalčík,Facebook
-5f95c9ce-8e6b-41b1-82b8-59d2f34c1b44,Ondrej Prostredník • Progresívne Slovensko,2023-08-25T05:08:18.521Z,fc25dec2-ecfd-4281-a2b9-c538d24674d8,PS,Slovakia,sk,951009345100113,Ondrej Prostredník • Progresívne Slovensko,Facebook
-dd299fc8-dd29-49c7-a054-271ffad80ccd,Martin Pekár • Progresívne Slovensko,2023-07-31T12:55:32.442Z,0e8f5a3a-4bef-4b45-b67b-4aed8f28b8bf,PS,Slovakia,sk,622124591472787,Martin Pekár • Progresívne Slovensko,Facebook
-4ee52afb-30d9-488c-aa78-f42f6134791e,Slovenská národná strana,2022-08-16T15:24:30.126Z,e26d972d-c1cd-4c46-8331-81b173c3b3c4,SNS,Slovakia,sk,121130481252381,Slovenská národná strana,Facebook
-49aaf0e8-759d-4a7e-9e38-77308d3d141e,Dobré noviny,2023-03-08T14:47:48.813Z,51b49b76-a104-42de-ba1b-fa895d26146b,Méd,Slovakia,sk,152001744925539,Dobré noviny,Facebook
+5669c34c-3540-4000-8503-21d335df7096,Demagog.SK,2023-06-19T18:26:44.476Z,986e5579-2f5a-4cab-b921-90a67a2500bf,Méd,Slovakia,sk,336630421641,Demagog.SK,Facebook
 b2f5a934-be64-44cb-9283-cb6c59b72d6e,Dominika Vážna,2023-02-20T10:55:24.335Z,2c5d1685-fc7f-4abd-8629-06838a582888,HLAS,Slovakia,sk,100554928586712,Dominika Vážna,Facebook
+7d3bb039-c515-4e06-8dce-c753c6e5352a,František Majerský - Poprad a Slovensko na 1. mieste,2023-08-18T05:08:59.367Z,75979d0c-8075-4ce7-95ac-71982783460e,KDH,Slovakia,sk,108494287234821,František Majerský - Poprad a Slovensko na 1. mieste,Facebook
 9afaee0c-4c66-4b7f-b5ac-69654d308603,Gabriela Viazanková,2023-08-13T05:09:30.840Z,32d09556-2022-4393-b8d0-61aaafcc81f9,KDH,Slovakia,sk,105388229317381,Gabriela Viazanková,Facebook
 21c4e065-223f-466c-9bf7-96bb387e4f79,Slobodní a zodpovední,2023-08-19T05:09:22.039Z,f762da13-2617-4c3a-9c1b-db4448056444,OLaNO,Slovakia,sk,109605918855025,Slobodní a zodpovední,Facebook
 6f4cfddc-7a3f-4f8d-9d94-f2dca1974f91,Ján Hargaš,2023-08-01T05:09:24.673Z,e7750ee5-cdda-418f-a179-4362d1f52c32,PS,Slovakia,sk,102696185988354,Ján Hargaš,Facebook
+023d91d6-aba5-4aae-876a-6d724855fb7d,Marek Michalčík,2023-08-08T05:08:42.481Z,f62fb0fa-98d6-4782-8673-a4c4cfa64d3e,KDH,Slovakia,sk,988525254539935,Marek Michalčík,Facebook
 7e6d510d-c92e-410c-a939-446d8325abac,"PhDr. Ján Bync PhD., 33 SNS",2023-07-31T12:55:32.514Z,b81743de-c77a-41af-9306-1c7bca47d3c4,SNS,Slovakia,sk,108184912015398,"PhDr. Ján Bync PhD., 33 SNS",Facebook
 40f58e39-4fed-4b80-9445-4f9937ba7772,Zuzana Bošnáková,2023-02-25T10:55:26.674Z,2ed95969-d8f2-4023-bc9b-f15b7e749ff4,KDH,Slovakia,sk,108326823969091,Zuzana Bošnáková,Facebook
+5f95c9ce-8e6b-41b1-82b8-59d2f34c1b44,Ondrej Prostredník • Progresívne Slovensko,2023-08-25T05:08:18.521Z,fc25dec2-ecfd-4281-a2b9-c538d24674d8,PS,Slovakia,sk,951009345100113,Ondrej Prostredník • Progresívne Slovensko,Facebook
+dd299fc8-dd29-49c7-a054-271ffad80ccd,Martin Pekár • Progresívne Slovensko,2023-07-31T12:55:32.442Z,0e8f5a3a-4bef-4b45-b67b-4aed8f28b8bf,PS,Slovakia,sk,622124591472787,Martin Pekár • Progresívne Slovensko,Facebook
 50616bab-8b7d-4180-805a-a4b4db83b64b,Dobré rádio,2023-03-16T10:55:43.064Z,a40a0900-a41d-49f1-9790-46f23baad73b,Méd,Slovakia,sk,348063062356711,Dobré rádio,Facebook
+4ee52afb-30d9-488c-aa78-f42f6134791e,Slovenská národná strana,2022-08-16T15:24:30.126Z,e26d972d-c1cd-4c46-8331-81b173c3b3c4,SNS,Slovakia,sk,121130481252381,Slovenská národná strana,Facebook
 17b10886-7619-4620-8948-6ed78eea96d9,Mgr. Gabriel Döme,2023-04-28T06:55:08.530Z,4a28366c-999c-47b6-af77-900b40f0e9c7,SMER,Slovakia,sk,101134716116007,Mgr. Gabriel Döme,Facebook
 d59a9916-ccd4-4e4e-bc16-d04d7c7261f0,MUDr. Jozef Baláž,2023-03-07T10:55:20.691Z,ad46af03-a487-4d4e-9666-80795124feb7,KDH,Slovakia,sk,330973187708540,MUDr. Jozef Baláž,Facebook
+49aaf0e8-759d-4a7e-9e38-77308d3d141e,Dobré noviny,2023-03-08T14:47:48.813Z,51b49b76-a104-42de-ba1b-fa895d26146b,Méd,Slovakia,sk,152001744925539,Dobré noviny,Facebook
 4325fe9c-307e-4d9b-8af2-b7939681f2f6,Natália Svítková,2023-02-20T10:55:24.354Z,a4d28927-ba03-44e4-899e-2b18facb4c74,D,Slovakia,sk,1555237767952874,Natália Svítková,Facebook
 7c60041c-f733-4d9a-8d2f-3f657783763e,Peter Vons za zdravé a silné Slovensko,2023-03-31T10:55:38.699Z,6e532641-0ad2-4446-a772-cb7a86f484e1,OLaNO,Slovakia,sk,147000705336065,Peter Vons za zdravé a silné Slovensko,Facebook
 1180e78e-1341-4b74-a55e-fdf9eeaccc77,Juraj Šeliga,2023-02-15T10:55:15.640Z,d8e97762-e966-48e3-b703-6c6b46307428,D,Slovakia,sk,858732787843932,Juraj Šeliga,Facebook
-d98c3014-7321-4928-a099-ad41083ed8d5,"JUDr. Jaromír Šmátrala, PhD. - Váš kandidát za Trávniky a Ružinov",2023-05-16T06:55:27.703Z,ea79d2cb-36c9-40d5-b9f1-248326a5b61b,R,Slovakia,sk,103016189252551,"JUDr. Jaromír Šmátrala, PhD. - Váš kandidát za Trávniky a Ružinov",Facebook
-a6ee03aa-563d-4397-b4bf-cad11a750604,JUDr. Aurel Gális - Mladí Sociálni Demokrati,2023-05-13T06:55:33.451Z,b91ed208-0b19-46a3-929c-72767aeea666,SMER,Slovakia,sk,103544389410904,JUDr. Aurel Gális - Mladí Sociálni Demokrati,Facebook
-cd484aae-deb9-4177-bc33-de6c0baf0595,JUDr. Aurel Gális,2023-05-09T06:55:05.539Z,04e48db7-602e-4e9b-9369-6baee8482ac6,SMER,Slovakia,sk,104152302670124,JUDr. Aurel Gális,Facebook
-cfa81474-8071-4272-97aa-95f7eae02b5b,"Ján Richter, poslanec NR SR",2023-02-14T10:55:17.810Z,4ea35066-b4ec-486c-9130-f2feb8cbf4f3,SMER,Slovakia,sk,889169094587556,"Ján Richter, poslanec NR SR",Facebook
-6db66512-0672-449a-b7cc-367bca093751,Martin Šimík,2023-08-13T05:09:30.800Z,986c0ce8-28d4-4eb9-8645-a84fa46bb3c0,KDH,Slovakia,sk,102658429548951,Martin Šimík,Facebook
-9b9c8f66-ad92-4dd0-962f-8ee331422f1f,Roman Mikulec,2023-09-01T05:08:29.627Z,f689878d-6f18-4800-9413-f1dfba5cc02e,OLaNO,Slovakia,sk,101376491395473,Roman Mikulec,Facebook
 1964e628-6902-4a7e-a588-228aa7340ac5,Jozef Guliga,2023-06-02T06:55:36.423Z,046736b7-9733-4f5a-a270-852b7a3180fd,HLAS,Slovakia,sk,100807411434842,Jozef Guliga,Facebook
+d98c3014-7321-4928-a099-ad41083ed8d5,"JUDr. Jaromír Šmátrala, PhD. - Váš kandidát za Trávniky a Ružinov",2023-05-16T06:55:27.703Z,ea79d2cb-36c9-40d5-b9f1-248326a5b61b,R,Slovakia,sk,103016189252551,"JUDr. Jaromír Šmátrala, PhD. - Váš kandidát za Trávniky a Ružinov",Facebook
 34053fa6-582c-4641-9ac6-92d0dec429ca,Jarmila Halgašová - Kvalitné potraviny zo slovenských polí,2023-03-24T10:55:31.080Z,b67af927-2326-4beb-9e23-b0c3305c18be,SASKA,Slovakia,sk,290039217722349,Jarmila Halgašová - Kvalitné potraviny zo slovenských polí,Facebook
 058e178f-7ff4-4607-be31-a60047bbf87d,Janka Jányová,2023-02-19T10:55:35.867Z,69a9c97b-0614-4973-bc77-f1d067b5a737,SMER,Slovakia,sk,102758272021092,Janka Jányová,Facebook
+a6ee03aa-563d-4397-b4bf-cad11a750604,JUDr. Aurel Gális - Mladí Sociálni Demokrati,2023-05-13T06:55:33.451Z,b91ed208-0b19-46a3-929c-72767aeea666,SMER,Slovakia,sk,103544389410904,JUDr. Aurel Gális - Mladí Sociálni Demokrati,Facebook
 ab569372-e55b-4b37-ac3c-ce36fdc30d0d,Ján Ferenčák,2023-02-21T10:55:17.418Z,f6742416-7192-4b3b-9bb3-656a06b7ff39,HLAS,Slovakia,sk,111977983820589,Ján Ferenčák,Facebook
+cd484aae-deb9-4177-bc33-de6c0baf0595,JUDr. Aurel Gális,2023-05-09T06:55:05.539Z,04e48db7-602e-4e9b-9369-6baee8482ac6,SMER,Slovakia,sk,104152302670124,JUDr. Aurel Gális,Facebook
 4315033d-de58-43a7-8ad9-c5bd74c92f01,Igor Kašper,2023-03-06T10:55:23.820Z,3fa4c455-8f61-40ac-b7d9-d972ca016fcc,SR,Slovakia,sk,1044358329012147,Igor Kašper,Facebook
+cfa81474-8071-4272-97aa-95f7eae02b5b,"Ján Richter, poslanec NR SR",2023-02-14T10:55:17.810Z,4ea35066-b4ec-486c-9130-f2feb8cbf4f3,SMER,Slovakia,sk,889169094587556,"Ján Richter, poslanec NR SR",Facebook
 28307e8c-7ac8-4dd5-9a7e-9da724fc299f,"Gabriela Hroššová, kandidátka na poslankyňu do MsZ Nitra",2023-03-08T16:06:50.890Z,243459cb-5745-4971-badf-d3db26da2a2d,SMER,Slovakia,sk,104803799064421,"Gabriela Hroššová, kandidátka na poslankyňu do MsZ Nitra",Facebook
 0b787012-db0d-4965-9eed-9b24cb8bafe5,Ján Blcháč,2023-05-14T06:55:38.532Z,98f132a8-4ba8-41c5-ae36-07edb2c1b0e9,HLAS,Slovakia,sk,102571051297892,Ján Blcháč,Facebook
+6db66512-0672-449a-b7cc-367bca093751,Martin Šimík,2023-08-13T05:09:30.800Z,986c0ce8-28d4-4eb9-8645-a84fa46bb3c0,KDH,Slovakia,sk,102658429548951,Martin Šimík,Facebook
+6dbd5496-0184-4a6f-91e2-855a8641fa03,Tomáš Drucker,2023-03-08T19:48:46.962Z,8ba0c904-4fb2-418d-a551-adca5bf04ea4,HLAS,Slovakia,sk,278345349229163,Tomáš Drucker,Facebook
+9b9c8f66-ad92-4dd0-962f-8ee331422f1f,Roman Mikulec,2023-09-01T05:08:29.627Z,f689878d-6f18-4800-9413-f1dfba5cc02e,OLaNO,Slovakia,sk,101376491395473,Roman Mikulec,Facebook
 5be1230a-bcec-4f33-91fc-da5d108ef96d,Tomáš Sobota - poslanec samosprávy,2023-02-14T10:55:17.891Z,97d24daa-4d9d-42aa-943d-f4ead0eb37ca,KDH,Slovakia,sk,101503339245371,Tomáš Sobota - poslanec samosprávy,Facebook
+c2536099-f136-4666-8267-c0aadb6ed4ce,Andrea Turčanová,2023-08-13T05:09:30.839Z,9ee83e39-d064-4abb-a8ba-7781b0ec92ae,KDH,Slovakia,sk,1473247526249413,Andrea Turčanová,Facebook
 a27d5c22-48e1-4cbb-9aa4-c8373d81a4ff,Peter Bobula • KDH,2023-08-12T05:09:20.771Z,900e1e84-6fb5-4c75-9544-e0ed8ef25b4b,KDH,Slovakia,sk,1695285870694719,Peter Bobula • KDH,Facebook
 16674c10-9efa-4bc1-9273-8238149d3fb2,Oskar Dvořák • Progresívne Slovensko,2023-08-25T05:08:18.573Z,25566fe1-5530-4488-a9ca-d65438c678e6,PS,Slovakia,sk,115022806551437,Oskar Dvořák • Progresívne Slovensko,Facebook
-6c4825f6-bc4f-48e2-9ad6-59cd2248f065,Gabriela Matečná,2023-08-05T05:09:26.123Z,fcae904a-bf5f-457e-909b-8c7a0721d7a5,SNS,Slovakia,sk,346219646219978,Gabriela Matečná,Facebook
-a1343aaa-51c7-484f-94cb-76977743d7f8,Domin István,2023-08-21T05:09:19.521Z,1f18e29b-8c4a-4677-84ed-053b9fa297dd,A-S,Slovakia,sk,698912600150421,Domin István,Facebook
-ffca0e37-2cab-43b3-ad7c-f9c82ae2b22d,MUDr. Krisztián Váradi - Egészség és öko • Zdravie a eko,2023-04-25T06:55:11.115Z,a2102d59-3107-4374-9483-ee6a43084fc0,PS,Slovakia,sk,113034513428949,MUDr. Krisztián Váradi - Egészség és öko • Zdravie a eko,Facebook
-8f5c3a55-2074-4316-86f9-377def5f1b13,Peter Žiak,2023-03-08T14:47:48.908Z,6957a87e-b8f7-441c-be7c-8f7ba5695c49,SASKA,Slovakia,sk,103404972377812,Peter Žiak,Facebook
-35640762-84b1-4556-a2b7-f0342d498335,Ing. Tomáš Urminský - kandidát na poslanca NR SR,2023-08-25T05:08:18.712Z,95e7d794-c263-4d3c-8446-f1a1b08b7f53,SASKA,Slovakia,sk,167715069957209,Ing. Tomáš Urminský - kandidát na poslanca NR SR,Facebook
-d3939d5a-8ba4-4943-ad76-d8c61f836574,Ján Kucman,2023-02-20T10:55:24.353Z,15870afb-de97-4c04-85f2-4be724a9a19b,SR,Slovakia,sk,444922019362259,Ján Kucman,Facebook
-6dbd5496-0184-4a6f-91e2-855a8641fa03,Tomáš Drucker,2023-03-08T19:48:46.962Z,8ba0c904-4fb2-418d-a551-adca5bf04ea4,HLAS,Slovakia,sk,278345349229163,Tomáš Drucker,Facebook
-c2536099-f136-4666-8267-c0aadb6ed4ce,Andrea Turčanová,2023-08-13T05:09:30.839Z,9ee83e39-d064-4abb-a8ba-7781b0ec92ae,KDH,Slovakia,sk,1473247526249413,Andrea Turčanová,Facebook
 3762ff8d-76c3-41db-9620-16231af8a3cb,Peter Pollák jr. - Poslanec NRSR,2023-09-01T05:08:29.223Z,6715b6bf-6517-45a7-9fe3-a4a904f239d4,OLaNO,Slovakia,sk,103898804596668,Peter Pollák jr. - Poslanec NRSR,Facebook
+6c4825f6-bc4f-48e2-9ad6-59cd2248f065,Gabriela Matečná,2023-08-05T05:09:26.123Z,fcae904a-bf5f-457e-909b-8c7a0721d7a5,SNS,Slovakia,sk,346219646219978,Gabriela Matečná,Facebook
 eb7f1156-b20a-4bb3-8278-594ec17326c1,Veronika Šrobova • Progresívne Slovensko,2023-08-29T05:08:22.761Z,321f4aa0-c7fa-4785-ad1f-966d51299262,PS,Slovakia,sk,109419223831777,Veronika Šrobova • Progresívne Slovensko,Facebook
 d575c581-c820-41d3-9529-bff5f0f8871c,Mikolášik Marcel,2023-08-13T05:09:30.906Z,3e5e8db3-a7d5-4a95-88e6-2b32f28ac9d1,KDH,Slovakia,sk,107952497639229,Mikolášik Marcel,Facebook
+a1343aaa-51c7-484f-94cb-76977743d7f8,Domin István,2023-08-21T05:09:19.521Z,1f18e29b-8c4a-4677-84ed-053b9fa297dd,A-S,Slovakia,sk,698912600150421,Domin István,Facebook
+ffca0e37-2cab-43b3-ad7c-f9c82ae2b22d,MUDr. Krisztián Váradi - Egészség és öko • Zdravie a eko,2023-04-25T06:55:11.115Z,a2102d59-3107-4374-9483-ee6a43084fc0,PS,Slovakia,sk,113034513428949,MUDr. Krisztián Váradi - Egészség és öko • Zdravie a eko,Facebook
 e30e7789-8a1e-4a86-a544-92a8076110a7,Martin Šmilňák,2023-07-21T05:09:37.882Z,1aef64ea-a5e8-4a47-80d8-b88b0fbcbab5,KDH,Slovakia,sk,279200712281963,Martin Šmilňák,Facebook
+8f5c3a55-2074-4316-86f9-377def5f1b13,Peter Žiak,2023-03-08T14:47:48.908Z,6957a87e-b8f7-441c-be7c-8f7ba5695c49,SASKA,Slovakia,sk,103404972377812,Peter Žiak,Facebook
 63e7ee88-a159-4578-8166-b4230c0bdd79,"Milan Kuriak - poslanec NR SR, OĽANO",2023-09-03T05:08:25.719Z,4d7ca4fc-4458-4de5-a893-d6b64c112847,OLaNO,Slovakia,sk,106928604178291,"Milan Kuriak - poslanec NR SR, OĽANO",Facebook
+35640762-84b1-4556-a2b7-f0342d498335,Ing. Tomáš Urminský - kandidát na poslanca NR SR,2023-08-25T05:08:18.712Z,95e7d794-c263-4d3c-8446-f1a1b08b7f53,SASKA,Slovakia,sk,167715069957209,Ing. Tomáš Urminský - kandidát na poslanca NR SR,Facebook
 8b14383b-72b0-4d65-b21d-a6c7fbc45de5,Forró Tibor - Magyar Platform • Progresívne Slovensko • Maďarská Platforma,2023-08-19T05:09:22.108Z,b74f2bf4-d8ac-4de2-bb89-c20b87510279,PS,Slovakia,sk,742265262782678,Forró Tibor - Magyar Platform • Progresívne Slovensko • Maďarská Platforma,Facebook
 fbe67a52-ecd1-4697-9586-1d7f8443795c,Adam Lučanský,2023-08-10T05:09:22.617Z,a6a33456-40c7-4786-be5a-3f9119e00aab,SNS,Slovakia,sk,102232092476868,Adam Lučanský,Facebook
+d3939d5a-8ba4-4943-ad76-d8c61f836574,Ján Kucman,2023-02-20T10:55:24.353Z,15870afb-de97-4c04-85f2-4be724a9a19b,SR,Slovakia,sk,444922019362259,Ján Kucman,Facebook
 a232f2db-b937-47a2-b8cb-770d0ca406fb,Erik Narjas - politik,2023-03-08T15:36:46.070Z,68e4e1c8-49e6-4094-bfd3-bae7cdc0257c,OLaNO,Slovakia,sk,109534358179032,Erik Narjas - politik,Facebook
 0fa07302-6f33-4801-8494-d6ed71c02d6d,Noviny PLUS TV JOJ,2023-03-11T10:55:39.673Z,c49e876c-1ff6-48ef-aea9-de445340172e,Méd,Slovakia,sk,112388310889611,Noviny PLUS TV JOJ,Facebook
 4fe294d4-6832-4d3b-b508-3a12b4fdad43,Pirátska strana - Slovensko,2023-05-16T06:55:27.728Z,cb7df78b-bdbc-446e-8770-099390b9f0bb,Ost,Slovakia,sk,565346557262681,Pirátska strana - Slovensko,Facebook
 7cde106f-1dd1-4be0-ac61-4d2f94a77816,Jozef Lukáč • Sme rodina,2023-03-25T10:55:10.970Z,1d0c2e4c-55fb-41c8-88a5-f9837ed012a0,SR,Slovakia,sk,1392444644388134,Jozef Lukáč • Sme rodina,Facebook
 f9ab7253-9834-4fae-b9c9-d437ba871e63,Mária Šofranko,2023-06-04T06:54:38.983Z,91a09b87-06d6-477d-b63c-559dc58a9f2e,OLaNO,Slovakia,sk,109874620495740,Mária Šofranko,Facebook
+7a632f03-3179-4904-8183-3815368b9326,Patrícia Popovičová,2023-08-13T05:09:30.839Z,4b4ee6e6-e456-427c-bddd-390af6fb2701,KDH,Slovakia,sk,114841588328448,Patrícia Popovičová,Facebook
 7e01e3b1-2801-4cca-a581-db235a5eed1b,Martina Holečková,2023-04-30T06:54:55.162Z,31dd0c19-3ce9-4e0b-b2c1-307ef67d50fe,KDH,Slovakia,sk,100686359349358,Martina Holečková,Facebook
 0112b2d8-4228-446c-9a6f-7a0bcc8ca166,Miloš Svrček,2023-05-08T06:55:06.986Z,1d465dca-cce7-426b-894e-44d028451507,SR,Slovakia,sk,646038542487768,Miloš Svrček,Facebook
-7a632f03-3179-4904-8183-3815368b9326,Patrícia Popovičová,2023-08-13T05:09:30.839Z,4b4ee6e6-e456-427c-bddd-390af6fb2701,KDH,Slovakia,sk,114841588328448,Patrícia Popovičová,Facebook
 19677769-72b8-44e0-ba4b-5edd96cba3a4,Ján Marosz,2023-09-02T05:08:28.578Z,3f564a9a-b6de-41eb-80e5-c5e49906704d,OLaNO,Slovakia,sk,884043258427382,Ján Marosz,Facebook
+cc57dc07-b7b4-427c-bdec-dd42077b2df1,Alexander Füle • KDH,2023-07-25T05:09:24.614Z,826137a5-990e-4535-aa98-7d76819e7edc,KDH,Slovakia,sk,103431272546936,Alexander Füle • KDH,Facebook
 2cd75690-5c36-4653-b90c-977ecac7f632,Lenka Jusko • Progresívne Slovensko,2023-08-18T05:08:59.346Z,062dadcd-e115-43ed-9338-41360290cda4,PS,Slovakia,sk,121054327672585,Lenka Jusko • Progresívne Slovensko,Facebook
 3e4acdd4-1473-4404-ab41-ce01935c44c0,Sergej Kára • Progresívne Slovensko,2023-08-26T05:08:26.280Z,7d170c67-570d-4e6b-9938-39f36f457cf8,PS,Slovakia,sk,110380365482267,Sergej Kára • Progresívne Slovensko,Facebook
 16340e82-55e5-43e7-97e4-1612f052543b,"Ivan Slaný - Trenčín, časť SEVER",2023-08-07T05:09:34.684Z,8bb4b348-65b4-4a5c-8d55-c0f497ea6947,SNS,Slovakia,sk,1472346096243480,"Ivan Slaný - Trenčín, časť SEVER",Facebook
-576d8017-d8d5-4d46-887f-f2806d2e38dc,noviny.sk - spravodajstvo TV JOJ,2023-09-04T05:08:30.315Z,613fdcdc-36d6-4f55-824c-313ac78a55f3,Méd,Slovakia,sk,141402462565998,noviny.sk - spravodajstvo TV JOJ,Facebook
-1a96a4d2-3745-48eb-8586-4eaf8dd0fb87,Poslanec Marek Šefčík,2023-09-07T05:08:12.791Z,b25b49fa-4188-424e-b692-8455392a4f99,OLaNO,Slovakia,sk,113183660338038,Poslanec Marek Šefčík,Facebook
-cd42da81-49ed-498a-a8ec-8d21dc1b625a,Karol Galek,2023-08-25T05:08:18.468Z,dee8a43b-f849-4010-9eac-911d0459dbf0,SASKA,Slovakia,sk,234030556972158,Karol Galek,Facebook
-e68f74d3-36fa-4310-b6cf-0f95f65a9286,Maroš Jakubik Magerovský,2023-06-26T05:10:09.309Z,da414135-2f7a-40be-8aaa-38934e6ab486,SMER,Slovakia,sk,105512659024632,Maroš Jakubik Magerovský,Facebook
-cc57dc07-b7b4-427c-bdec-dd42077b2df1,Alexander Füle • KDH,2023-07-25T05:09:24.614Z,826137a5-990e-4535-aa98-7d76819e7edc,KDH,Slovakia,sk,103431272546936,Alexander Füle • KDH,Facebook
 36beb4a8-1286-4d2c-99e8-8433b7b4eb97,Eleonóra Porubcová,2023-09-05T05:08:36.168Z,99957238-bdb5-4e18-913f-4b7d19075cfd,KDH,Slovakia,sk,112611038482621,Eleonóra Porubcová,Facebook
+576d8017-d8d5-4d46-887f-f2806d2e38dc,noviny.sk - spravodajstvo TV JOJ,2023-09-04T05:08:30.315Z,613fdcdc-36d6-4f55-824c-313ac78a55f3,Méd,Slovakia,sk,141402462565998,noviny.sk - spravodajstvo TV JOJ,Facebook
 5d160066-36b4-43d0-b79d-3d579778ecd8,Dana Kleinert • Progresívne Slovensko,2023-07-31T11:08:52.411Z,d44aaafd-79dd-4723-ab31-376ed64123de,PS,Slovakia,sk,174150095983441,Dana Kleinert • Progresívne Slovensko,Facebook
+1a96a4d2-3745-48eb-8586-4eaf8dd0fb87,Poslanec Marek Šefčík,2023-09-07T05:08:12.791Z,b25b49fa-4188-424e-b692-8455392a4f99,OLaNO,Slovakia,sk,113183660338038,Poslanec Marek Šefčík,Facebook
 458e453f-5d37-4373-a8be-9b7220d1472f,Miroslav Suja • Republika,2023-09-03T05:08:25.689Z,a7e1f82f-24ae-4e0b-94b0-00f6d5ba8b11,R,Slovakia,sk,100100868241799,Miroslav Suja • Republika,Facebook
 45b80484-63e7-43df-9cd3-218635b28bff,,2023-09-06T05:08:29.354Z,2f4c4505-2a6b-4629-b65d-6d60205f9e63,SNS,Slovakia,sk,350597169475647,,Facebook
+cd42da81-49ed-498a-a8ec-8d21dc1b625a,Karol Galek,2023-08-25T05:08:18.468Z,dee8a43b-f849-4010-9eac-911d0459dbf0,SASKA,Slovakia,sk,234030556972158,Karol Galek,Facebook
 0499917f-3cff-488b-9f8a-a67b2435448e,Őry Péter,2023-03-08T18:55:19.130Z,25fa250e-8f35-4434-8416-eac28bdcd37b,A-S,Slovakia,sk,1111614645518109,Őry Péter,Facebook
 3412efa2-58ad-4932-9179-1d5dd35a4ec3,Pravda,2023-04-26T06:55:31.509Z,4395301b-53c5-4300-9921-3266b2fb94c8,Méd,Slovakia,sk,49067816623,Pravda,Facebook
-46ef663e-8df8-4a5f-b942-be65958a7eb3,Dávid Skokan - poslanec a kandidát KDH,2023-08-18T05:08:59.442Z,fd7b98ac-9feb-4302-8112-18410ba98d00,KDH,Slovakia,sk,104836089345291,Dávid Skokan - poslanec a kandidát KDH,Facebook
-e5d3e7b8-9331-4519-a316-673e264fbf85,Marián Čaučík,2023-08-31T06:15:38.922Z,f8d97b29-5e8d-4c20-804c-d4de2fe6dac4,KDH,Slovakia,sk,168054920212177,Marián Čaučík,Facebook
-2d99154e-3030-4009-a2c8-03fa97fb74bb,Tomáš Holkovič - kandidát OĽANO a priatelia č. 44,2023-08-25T05:08:18.642Z,5bb58db3-022b-43c3-a605-28a7fbb5de39,OLaNO,Slovakia,sk,100332826463662,Tomáš Holkovič - kandidát OĽANO a priatelia č. 44,Facebook
-6a6454a7-b344-4575-b783-b60f9b7cef55,JUDr. Peter Pollák • Progresívne Slovensko,2023-08-06T05:09:14.486Z,6c4468b6-5e18-4182-a130-92b8360c0cf0,PS,Slovakia,sk,112659788539240,JUDr. Peter Pollák • Progresívne Slovensko,Facebook
-e574995b-f4b5-43cb-94d2-58db362edcff,Ing. Rudolf Huliak - SNS - Nezávislý kandidát,2023-07-31T12:55:32.675Z,40427f14-35f5-4858-92d2-22bf70409e53,SNS,Slovakia,sk,110432107808548,Ing. Rudolf Huliak - SNS - Nezávislý kandidát,Facebook
-01487df8-0067-4333-b1a3-a2db66a1e16c,Pandy Péter,2023-02-28T10:55:32.702Z,7cd19d5a-2b7f-46e6-8720-077414bdd7bb,A-S,Slovakia,sk,101211179319052,Pandy Péter,Facebook
-7d306e54-99c2-4b8b-bd08-9b84bbf93f48,Radio Expres,2023-06-27T06:58:57.211Z,bd9fc844-f77b-4b7f-ab99-2819b1d5c2d6,Méd,Slovakia,sk,35035183562,Radio Expres,Facebook
+e68f74d3-36fa-4310-b6cf-0f95f65a9286,Maroš Jakubik Magerovský,2023-06-26T05:10:09.309Z,da414135-2f7a-40be-8aaa-38934e6ab486,SMER,Slovakia,sk,105512659024632,Maroš Jakubik Magerovský,Facebook
 94f38575-e397-48ef-a4ad-5c1e36ede227,Zriedkaví Priatelia,2023-08-30T05:08:31.421Z,f4a177fd-9203-4215-8d3c-71cda2d5db6f,D,Slovakia,sk,108466378973519,Zriedkaví Priatelia,Facebook
 f162005f-fcfc-43c2-8b09-25e21fb031ea,HLAS - sociálna demokracia/NITRIANSKY KRAJ,2023-08-19T05:09:22.038Z,46b67fcb-adfd-4f04-aca2-9e2209c4d2ec,HLAS,Slovakia,sk,112846697159144,HLAS - sociálna demokracia/NITRIANSKY KRAJ,Facebook
+46ef663e-8df8-4a5f-b942-be65958a7eb3,Dávid Skokan - poslanec a kandidát KDH,2023-08-18T05:08:59.442Z,fd7b98ac-9feb-4302-8112-18410ba98d00,KDH,Slovakia,sk,104836089345291,Dávid Skokan - poslanec a kandidát KDH,Facebook
 f0837d0e-b2fb-48c7-a905-b9fe35ffedda,Milan Laurinc • Progresívne Slovensko,2023-08-26T05:08:26.275Z,834cb5a8-331c-4460-b925-e36b9f1a2af0,PS,Slovakia,sk,105797224238738,Milan Laurinc • Progresívne Slovensko,Facebook
+e5d3e7b8-9331-4519-a316-673e264fbf85,Marián Čaučík,2023-08-31T06:15:38.922Z,f8d97b29-5e8d-4c20-804c-d4de2fe6dac4,KDH,Slovakia,sk,168054920212177,Marián Čaučík,Facebook
 2cdbeba2-27d1-4458-b104-6ece6dd15767,,2023-08-07T05:09:34.601Z,826a9eb2-a9b1-4146-a174-79840af626f5,SNS,Slovakia,sk,106070962535594,,Facebook
+2d99154e-3030-4009-a2c8-03fa97fb74bb,Tomáš Holkovič - kandidát OĽANO a priatelia č. 44,2023-08-25T05:08:18.642Z,5bb58db3-022b-43c3-a605-28a7fbb5de39,OLaNO,Slovakia,sk,100332826463662,Tomáš Holkovič - kandidát OĽANO a priatelia č. 44,Facebook
 74407f48-f84f-4279-b00d-026896b1ff8b,Michal Kiča,2023-08-15T05:08:58.061Z,0f978f79-b696-4e03-a8ff-67b26b28247a,D,Slovakia,sk,103467872676374,Michal Kiča,Facebook
+6a6454a7-b344-4575-b783-b60f9b7cef55,JUDr. Peter Pollák • Progresívne Slovensko,2023-08-06T05:09:14.486Z,6c4468b6-5e18-4182-a130-92b8360c0cf0,PS,Slovakia,sk,112659788539240,JUDr. Peter Pollák • Progresívne Slovensko,Facebook
+e574995b-f4b5-43cb-94d2-58db362edcff,Ing. Rudolf Huliak - SNS - Nezávislý kandidát,2023-07-31T12:55:32.675Z,40427f14-35f5-4858-92d2-22bf70409e53,SNS,Slovakia,sk,110432107808548,Ing. Rudolf Huliak - SNS - Nezávislý kandidát,Facebook
 3d2f7cc4-12d2-4583-bfbc-abf0c5992bf7,Róbert Puci,2023-08-18T05:08:59.312Z,c0b75783-fa5c-4470-836e-2f88ea426637,HLAS,Slovakia,sk,126745592171653,Róbert Puci,Facebook
+01487df8-0067-4333-b1a3-a2db66a1e16c,Pandy Péter,2023-02-28T10:55:32.702Z,7cd19d5a-2b7f-46e6-8720-077414bdd7bb,A-S,Slovakia,sk,101211179319052,Pandy Péter,Facebook
 6b1ec1e8-a5bc-4a31-874a-36134b705dc0,Tibor Gašpar,2023-08-26T05:08:26.275Z,01d0c910-b2a7-454b-bae7-d5ba1136dca2,SMER,Slovakia,sk,2114747078615092,Tibor Gašpar,Facebook
+7d306e54-99c2-4b8b-bd08-9b84bbf93f48,Radio Expres,2023-06-27T06:58:57.211Z,bd9fc844-f77b-4b7f-ab99-2819b1d5c2d6,Méd,Slovakia,sk,35035183562,Radio Expres,Facebook
 3f767563-356c-4183-a935-51410bd84809,Iveta Rajčániová - SMER SSD - kandidátka č. #139,2023-08-25T05:08:18.721Z,8359c197-8fda-4601-a387-8d4e0e226266,SMER,Slovakia,sk,102249709312963,Iveta Rajčániová - SMER SSD - kandidátka č. #139,Facebook
 610daa58-a1e1-4086-94a4-6f03b275309a,Pálinkás Évi,2023-08-19T05:09:22.343Z,3b5d5b58-d571-4d21-a931-daf82fd89646,A-S,Slovakia,sk,111586945189104,Pálinkás Évi,Facebook
+aaa8b954-0563-4523-b4cd-48e90b94038b,,2023-08-07T05:09:34.549Z,2ae28fef-6ba5-4332-a6d1-fead8db499a9,D,Slovakia,sk,279291282133882,,Facebook
 8e73d1fb-1005-4e47-a5da-e1484563e2ec,Andrej Danko - predseda SNS,2023-02-08T05:55:41.690Z,7e8fda24-5e7e-4430-af58-ad9906c3acfe,SNS,Slovakia,sk,1495199624026639,Andrej Danko - predseda SNS,Facebook
 8b7f209b-ae1f-4a29-b985-abdce920a89e,Pavel Hagyari,2023-03-13T10:55:20.809Z,8039b20d-2aff-412d-9556-b59cec8e4dba,SR,Slovakia,sk,171308816244263,Pavel Hagyari,Facebook
 ef667169-8739-4025-a5ab-95d26e3b8667,Richard Dubovický - poslanec MsZ mesta Prešov PS,2023-03-10T10:55:25.620Z,8a751e92-f62c-41b5-ae0a-66f9a7bff9d2,PS,Slovakia,sk,2172120879691717,Richard Dubovický - poslanec MsZ mesta Prešov PS,Facebook
+bd044308-ce10-446b-b60d-07e22bd483ab,HLAS - sociálna demokracia/TRNAVA,2023-08-20T05:09:12.002Z,ac92e670-7b95-49c5-9f3e-8b4163aabad4,HLAS,Slovakia,sk,101604784962294,HLAS - sociálna demokracia/TRNAVA,Facebook
+4482e3e0-e58e-49df-8e92-7531fd506620,Okresná organizácia SMER - SD Šaľa,2023-08-25T05:08:18.629Z,83fa9d5d-9eea-448b-90a9-c30ebdd4e15c,SMER,Slovakia,sk,110960838672051,Okresná organizácia SMER - SD Šaľa,Facebook
 cc2d4c0a-4775-4394-9288-3875a9a52e07,KARMA - nová politická strana,2023-08-26T05:08:26.252Z,ac4d6824-a110-4f25-8b22-1c14ef47017c,Ost,Slovakia,sk,1544882959152020,KARMA - nová politická strana,Facebook
 8e542782-09cc-416f-8fff-23acec8f1d24,Martina Brisudová - poslankyňa NRSR,2023-02-16T10:55:21.760Z,684b12ea-ccf8-4695-b944-ed24211a8c17,OLaNO,Slovakia,sk,100913749294471,Martina Brisudová - poslankyňa NRSR,Facebook
+4394127b-395e-4b27-9feb-4f99c04a6926,SMER - SSD Bratislavský kraj,2023-08-25T05:08:18.486Z,aec77dd0-4ddf-4267-8600-4474a69e4c66,SMER,Slovakia,sk,100472733014292,SMER - SSD Bratislavský kraj,Facebook
 6ec832af-01b0-45a3-91f9-08c1e84af3cb,Baranyay Zsolt,2023-09-11T05:08:54.423Z,717db6b3-e6fc-4b96-8c94-a7a17f91275d,A-S,Slovakia,sk,106799860815101,Baranyay Zsolt,Facebook
+484ab7ec-3b6e-46bd-983e-548449321d64,Róbert Zsembera,2023-04-09T10:55:22.086Z,7e0b0186-7839-4a72-b81e-5505e9af5d26,HLAS,Slovakia,sk,104051965408887,Róbert Zsembera,Facebook
 0adb7e49-c124-4add-85e6-1a1388010bfb,René Parák - Chceme žiť kultúrne,2023-09-11T05:08:54.403Z,551cec5b-9b9c-485a-9b4a-a4c3d1708bfd,SASKA,Slovakia,sk,119207254432872,René Parák - Chceme žiť kultúrne,Facebook
+c4b19e5b-8c64-4db8-83c9-ef3e8aa7c2f6,Pavol Krajči,2023-03-08T20:20:48.363Z,77c99489-cfcc-456f-b0c6-64c6b69cb59f,PS,Slovakia,sk,102438758040944,Pavol Krajči,Facebook
 0f0cb5cb-08e7-44d0-b3ff-5ff7acc151d9,Martin Barto,2023-09-11T05:08:54.419Z,ff69520a-4cb6-4476-bc8f-6c656927ab4a,SASKA,Slovakia,sk,233025170967044,Martin Barto,Facebook
+780fe67f-123d-4a6a-908d-1b76bb5964b2,Topky.sk,2023-03-08T14:47:48.910Z,61aceb8c-c064-4bf5-bde0-a940e57e4393,Méd,Slovakia,sk,47112046737,Topky.sk,Facebook
 9569efa9-46ca-47b1-a285-11f200d67850,Vladimír Škola ZA ĽUDÍ,2023-09-10T05:08:41.926Z,c13ad1d4-7508-4768-b4c1-e2992db2bbfa,ZL,Slovakia,sk,352917354804040,Vladimír Škola ZA ĽUDÍ,Facebook
 eac2b800-74ca-4752-aff8-324eefc44282,Martina Žilková • Progresívne Slovensko,2023-09-10T05:08:41.910Z,56831d0e-a0bb-4c8d-bfa7-93c96ed0d99e,PS,Slovakia,sk,118178417954606,Martina Žilková • Progresívne Slovensko,Facebook
 56b24c98-36a4-4382-9bcc-8cbb4f4947cd,Veronika Veslárová - Dôvera bez bariér,2023-09-10T05:08:41.727Z,78f2760f-9e26-4adf-bc66-4122114fde4b,PS,Slovakia,sk,155962418300999,Veronika Veslárová - Dôvera bez bariér,Facebook
 2d294cc1-bb2e-4544-a727-05603de6c3e5,Jana Toličová - osobný blog,2023-09-10T05:08:41.868Z,dca72610-0b6b-4eb3-9cc6-e487a65a7345,PS,Slovakia,sk,2141392709466514,Jana Toličová - osobný blog,Facebook
-aaa8b954-0563-4523-b4cd-48e90b94038b,,2023-08-07T05:09:34.549Z,2ae28fef-6ba5-4332-a6d1-fead8db499a9,D,Slovakia,sk,279291282133882,,Facebook
-bd044308-ce10-446b-b60d-07e22bd483ab,HLAS - sociálna demokracia/TRNAVA,2023-08-20T05:09:12.002Z,ac92e670-7b95-49c5-9f3e-8b4163aabad4,HLAS,Slovakia,sk,101604784962294,HLAS - sociálna demokracia/TRNAVA,Facebook
-4482e3e0-e58e-49df-8e92-7531fd506620,Okresná organizácia SMER - SD Šaľa,2023-08-25T05:08:18.629Z,83fa9d5d-9eea-448b-90a9-c30ebdd4e15c,SMER,Slovakia,sk,110960838672051,Okresná organizácia SMER - SD Šaľa,Facebook
-4394127b-395e-4b27-9feb-4f99c04a6926,SMER - SSD Bratislavský kraj,2023-08-25T05:08:18.486Z,aec77dd0-4ddf-4267-8600-4474a69e4c66,SMER,Slovakia,sk,100472733014292,SMER - SSD Bratislavský kraj,Facebook
-484ab7ec-3b6e-46bd-983e-548449321d64,Róbert Zsembera,2023-04-09T10:55:22.086Z,7e0b0186-7839-4a72-b81e-5505e9af5d26,HLAS,Slovakia,sk,104051965408887,Róbert Zsembera,Facebook
-c4b19e5b-8c64-4db8-83c9-ef3e8aa7c2f6,Pavol Krajči,2023-03-08T20:20:48.363Z,77c99489-cfcc-456f-b0c6-64c6b69cb59f,PS,Slovakia,sk,102438758040944,Pavol Krajči,Facebook
-780fe67f-123d-4a6a-908d-1b76bb5964b2,Topky.sk,2023-03-08T14:47:48.910Z,61aceb8c-c064-4bf5-bde0-a940e57e4393,Méd,Slovakia,sk,47112046737,Topky.sk,Facebook
-b604939c-136a-4037-8b2d-c42deaf7624f,KARMA - politická strana,2023-03-24T10:55:30.895Z,1f3e19c7-632b-417e-b4d5-f1ca40ec8841,Ost,Slovakia,sk,108738885239217,KARMA - politická strana,Facebook
-dbd50bbf-543c-4f14-9d8d-80e065faa5cd,Martin Beluský - poslanec NR SR za ĽS Naše Slovensko,2023-06-19T18:26:44.421Z,edeece5e-f14c-47b6-9fb0-7a6ae6a4407f,LSNS,Slovakia,sk,2011031775831511,Martin Beluský - poslanec NR SR za ĽS Naše Slovensko,Facebook
 5141fb37-a279-4c22-b168-64e39cfe6319,,2023-08-07T05:09:34.619Z,762e7472-adda-46f6-bdc5-e0899ea6283b,D,Slovakia,sk,102359016253900,,Facebook
 95b1bfe7-c178-4bb9-923c-113f104d24a1,Varga Tibor,2023-08-18T05:08:59.450Z,100f8354-ad07-4b25-b5b5-e55031851ea5,A-S,Slovakia,sk,572178032935323,Varga Tibor,Facebook
 f5db7d3b-f6c0-476c-b6cd-d380755df32d,Rišo Eliáš,2023-02-24T10:55:24.203Z,73b6d56a-4462-43da-b916-482e65c6a885,HLAS,Slovakia,sk,114095796699657,Rišo Eliáš,Facebook
@@ -416,6 +415,9 @@ a5f7e9ba-b4c0-40bf-853e-f948cb399067,Most–Híd,2022-08-16T15:24:30.141Z,218655
 9852c384-ad28-4048-b212-6686509f8000,Michal Šipoš,2023-06-10T06:54:38.323Z,fc3c54eb-35a1-473d-ba8b-9db0bec9d2c9,OLaNO,Slovakia,sk,156395481064391,Michal Šipoš,Facebook
 25317fd5-0ecb-411c-9fb8-702a708728ee,Desolat,2023-03-01T10:55:18.345Z,a29b7ea8-c9d0-4bcf-a37f-85853f5913c3,Méd,Slovakia,sk,102187668098088,Desolat,Facebook
 60c65e77-19cf-43c1-9a81-a9040b6e2201,Spravodlivosť,2023-08-28T05:08:19.377Z,d93682d4-ddb3-4008-a1f5-46b9d976c9ae,Ost,Slovakia,sk,295474380481252,Spravodlivosť,Facebook
+c95b5e78-94d7-4c94-91a3-a43c69d4f18c,Divé maky,2023-07-05T06:09:07.165Z,9f9dfd27-bc6a-42bd-9611-9b41c7745337,ZZZ,Slovakia,sk,120479681309676,Divé maky,Facebook
+b604939c-136a-4037-8b2d-c42deaf7624f,KARMA - politická strana,2023-03-24T10:55:30.895Z,1f3e19c7-632b-417e-b4d5-f1ca40ec8841,Ost,Slovakia,sk,108738885239217,KARMA - politická strana,Facebook
+dbd50bbf-543c-4f14-9d8d-80e065faa5cd,Martin Beluský - poslanec NR SR za ĽS Naše Slovensko,2023-06-19T18:26:44.421Z,edeece5e-f14c-47b6-9fb0-7a6ae6a4407f,LSNS,Slovakia,sk,2011031775831511,Martin Beluský - poslanec NR SR za ĽS Naše Slovensko,Facebook
 abeac497-5332-435f-ba6d-1c067255d3a7,Ahoj Komárno,2023-09-24T05:08:54.970Z,997b795f-5412-40b0-994b-087b098ce23a,SR,Slovakia,sk,161286493886726,Ahoj Komárno,Facebook
 7c76a8a5-ee38-40e2-bfc1-4013e47a48fd,Peter Kalivoda - HLAS za zelenšie Slovensko,2023-09-24T05:08:54.992Z,cf81fda5-d46a-486e-98db-9f0e64925021,HLAS,Slovakia,sk,101027708481903,Peter Kalivoda - HLAS za zelenšie Slovensko,Facebook
 014017f8-171b-473b-b1e6-b5820df2603e,Szia Komárom,2023-09-24T05:08:54.970Z,bc1125a7-a719-498c-b6dd-d0551b1b8c19,SR,Slovakia,sk,228301187184907,Szia Komárom,Facebook
@@ -463,8 +465,6 @@ b4f78f29-2fc7-416e-aded-f216fe3504fa,Tomáš Gbúr,2023-09-15T05:08:34.578Z,c281
 16797373-9634-4b86-8c4e-312f82774111,Sabína Poláčik,2023-09-15T05:08:34.571Z,f1ed7c32-da1e-4b1b-a20d-df8ac2a254ee,SR,Slovakia,sk,110804395391371,Sabína Poláčik,Facebook
 4c06cee8-2321-48f8-9b86-47a4532db589,Juraj Jánošík,2023-09-15T05:08:34.377Z,d81128d8-6c10-4efd-bed2-9cf192e4f785,SASKA,Slovakia,sk,865682926924151,Juraj Jánošík,Facebook
 929d5d04-2507-4f6f-9cc8-62da8d122126,Správy RTVS,2023-09-15T05:08:34.390Z,60eb4bd3-51db-4caf-a7d6-3f5601a62db0,Méd,Slovakia,sk,1428899270704224,Správy RTVS,Facebook
-a0dd53bb-9184-4381-9397-48d91e11af18,Úrad na ochranu oznamovateľov,2023-02-10T10:55:19.628Z,1ef6454b-1437-4ec1-9768-d350f831203d,Vlá,Slovakia,sk,104936221959583,Úrad na ochranu oznamovateľov,Facebook
-c95b5e78-94d7-4c94-91a3-a43c69d4f18c,Divé maky,2023-07-05T06:09:07.165Z,9f9dfd27-bc6a-42bd-9611-9b41c7745337,ZZZ,Slovakia,sk,120479681309676,Divé maky,Facebook
 1303922b-a35e-474f-9d2b-dae334c34230,Dobrovoľný hasičský zbor obce Jarabina,2023-08-03T05:09:08.147Z,6bf02b62-32d6-40f4-b61c-1dae30e9738a,ZZZ,Slovakia,sk,754397127985320,Dobrovoľný hasičský zbor obce Jarabina,Facebook
 9917800e-6ca6-42ca-b71d-ecfe93db92d1,eSestra.sk,2023-07-06T06:09:18.590Z,a8eede67-848b-4256-9bec-d892777e57ab,ZZZ,Slovakia,sk,101308068880919,eSestra.sk,Facebook
 0399b278-3b71-4adf-82da-c813522d69c7,christiania prešov,2023-08-31T06:15:38.979Z,4817afbd-222d-4272-882a-bb924ebd628f,ZZZ,Slovakia,sk,89860391693,christiania prešov,Facebook
@@ -560,6 +560,24 @@ a937c45e-bb68-4eed-8054-015b0ed81ed1,TopReality.sk,2023-02-11T10:54:57.400Z,9bbf
 7c0c0f56-17ae-43f2-b07e-20b40a3a604b,Amnesty International Slovakia,2023-02-11T10:54:57.294Z,341a29de-b1c5-46e7-bd67-f353882bc9af,ZZZ,Slovakia,sk,111165370750,Amnesty International Slovakia,Facebook
 70ba68ac-d39a-42c7-b6b9-ad60cb4ff8d2,Alto Real Estate,2023-02-11T10:54:57.351Z,6563d1e8-e011-41c0-8eb8-fa1b51ffef74,ZZZ,Slovakia,sk,110428754881372,Alto Real Estate,Facebook
 7ccd3cbc-9a10-4828-a9e9-55448bc70da0,PEPCO Slovensko,2023-02-11T10:54:57.398Z,dea0f086-d9e8-478e-bb65-25c3defc6e0b,ZZZ,Slovakia,sk,873391256051903,PEPCO Slovensko,Facebook
+38de8e9f-52a5-4cce-a0d3-31f70c6b320c,Bystriny,2023-02-12T10:55:05.224Z,5383fd47-ef6f-4714-908c-64122418fd07,ZZZ,Slovakia,sk,106390307409654,Bystriny,Facebook
+62f9e81f-6d07-4a4a-9c42-0bcb0e036fde,čierna labuť,2023-02-12T10:55:05.205Z,8a22b6af-baa3-4bca-bb8f-0beb9d079047,ZZZ,Slovakia,sk,864297263644468,čierna labuť,Facebook
+a32e637a-ab50-4c7d-bbb3-3fb677fd4562,Odborové združenie sestier a pôrodných asistentiek,2023-02-12T10:55:05.219Z,1d112857-b27c-4061-83af-179e47f7e988,ZZZ,Slovakia,sk,938413666216392,Odborové združenie sestier a pôrodných asistentiek,Facebook
+0083e0c5-594e-4301-b7d4-a2873ec2f4e7,Liga za ľudské práva / Human Rights League,2023-02-12T10:55:05.220Z,1b197f95-6b81-4610-85ab-a85cf64a901b,ZZZ,Slovakia,sk,810794665738940,Liga za ľudské práva / Human Rights League,Facebook
+6c078901-9b4b-41fd-a577-e50d961b87ab,Hodos Község hivatalos oldala - Oficiálna stránka Obce Vydrany,2023-02-12T10:55:05.220Z,19e05586-c16d-4ab0-90dd-edbb12fffecb,ZZZ,Slovakia,sk,485871734945686,Hodos Község hivatalos oldala - Oficiálna stránka Obce Vydrany,Facebook
+a4b9114a-f5b4-4ce5-88e1-68e97c8403c9,Divadlo Kontra,2023-09-04T05:08:30.572Z,e173503d-cb82-40f8-b06c-0551e2c81c8e,ZZZ,Slovakia,sk,713821152097065,Divadlo Kontra,Facebook
+301e979b-f0f1-42de-b736-b30fce1e13bd,"Friedrich-Ebert-Stiftung, Zastúpenie v Slovenskej republike",2023-02-13T10:55:21.209Z,a915ca76-dfb7-4714-9110-74b6d1012d04,ZZZ,Slovakia,sk,1779011449074677,"Friedrich-Ebert-Stiftung, Zastúpenie v Slovenskej republike",Facebook
+725b3841-f1b0-4946-87aa-3a1a08ed9874,ESET,2023-02-13T10:55:21.092Z,38f07aac-e82c-478d-ab4f-5d4d0f50d98e,ZZZ,Slovakia,sk,186953775142661,ESET,Facebook
+c14c4c8e-7cf5-4f03-9c9d-7966ff98ef2d,Veci Verejné,2023-02-13T10:55:21.179Z,63fdd5d2-3f72-4ebe-b0e3-aedb2946d36b,ZZZ,Slovakia,sk,143423336065618,Veci Verejné,Facebook
+c4158558-278a-409e-8b6a-0ec7a88c476c,Schneider Electric,2023-02-13T10:55:21.101Z,219add1f-c25d-48b8-9d5b-c9ef835e5264,ZZZ,Slovakia,sk,566178043547804,Schneider Electric,Facebook
+81ec03bf-9e1b-40cf-949d-79bd2ea2880a,Bindics László,2023-02-13T10:55:21.213Z,a5377c7b-e8f4-4ab0-9d66-4d6b17dfafcb,ZZZ,Slovakia,sk,2109897839105854,Bindics László,Facebook
+79bd0cab-32b7-49ae-b60d-0741a7c0b506,Aktuality.sk,2023-02-08T05:55:41.648Z,88ed1542-f997-4fea-ae63-2bca06bdc611,ZZZ,Slovakia,sk,339528979423925,Aktuality.sk,Facebook
+5f5a16dd-35d2-48da-a175-81157ed6fbbb,Brainee.sk,2023-02-08T05:55:41.658Z,09966b75-1651-4f56-89e6-cf9a1eb6aa03,ZZZ,Slovakia,sk,109669047774695,Brainee.sk,Facebook
+5eeffd38-c3c6-4cc0-b387-200759529c4a,SPP - distribúcia,2023-02-08T05:55:41.676Z,96a5b29a-0728-4601-aba9-9daa40f1a06c,ZZZ,Slovakia,sk,1552624815015371,SPP - distribúcia,Facebook
+2de7dd6d-b18b-489b-bc76-c6bf65c20a75,Poradňa pre občianske a ľudské práva / Center for Civil and Human Rights,2023-02-13T10:55:21.194Z,b5de2579-2cd6-40c7-b91e-63f55070a0c9,ZZZ,Slovakia,sk,569734989747868,Poradňa pre občianske a ľudské práva / Center for Civil and Human Rights,Facebook
+52292998-5ac7-43bf-bf20-7f518e78e85a,Hospodárske noviny,2023-02-08T05:55:41.676Z,c31cbd93-0e37-49ab-8526-037538a24404,ZZZ,Slovakia,sk,53247283454,Hospodárske noviny,Facebook
+12680bcd-c65a-44b2-9356-37610da4b025,Sconto Nábytok,2023-02-08T05:55:41.676Z,7888e145-bfc2-4d93-a789-7558be3b9f36,ZZZ,Slovakia,sk,935929019771603,Sconto Nábytok,Facebook
+6712d430-0059-4361-9575-1a69b0bf6779,Za právny štát,2023-02-08T05:55:41.689Z,809a7dd4-31e7-4d5c-8202-8d6ddead71d3,ZZZ,Slovakia,sk,106092371358835,Za právny štát,Facebook
 839b99b0-89b7-4455-881f-72211ded3b5c,Visibility,2023-02-08T05:55:41.702Z,3755c4c1-7317-41d4-9e86-798de4108dbd,ZZZ,Slovakia,sk,139325113921,Visibility,Facebook
 16aac76e-6ebb-4bc6-9c66-6d8324088d93,Klimatická koalícia,2023-02-08T05:55:41.789Z,a1f14873-676d-4f89-8c79-0980ad7f0949,ZZZ,Slovakia,sk,118645769886785,Klimatická koalícia,Facebook
 5123d8cb-ee12-401a-8dcf-edb77c67b666,Republiková únia zamestnávateľov,2023-02-08T05:55:41.754Z,3042db35-5d96-4614-84f0-5b162319f6e8,ZZZ,Slovakia,sk,829246250528166,Republiková únia zamestnávateľov,Facebook
@@ -657,6 +675,7 @@ dd097686-4166-453b-910b-5791ebe55a6e,Daňové a odvodové tipy Jozefa Mihála,20
 0f7e89a8-64ca-45a3-991f-45134171349f,Central Slovakia,2023-07-21T05:09:37.938Z,93941b25-9d57-474a-a87d-a00c2d9fb3da,ZZZ,Slovakia,sk,1598454377069469,Central Slovakia,Facebook
 ac7974da-d7dd-427b-b5e0-865513877dd7,Capital FP,2023-07-21T05:09:37.938Z,45f74e3b-800e-41ca-8ed3-7f88d8e4a03d,ZZZ,Slovakia,sk,102648462152640,Capital FP,Facebook
 bb118ebf-b295-48d9-80f8-ce9cfb1b3ce6,Országos Népművészeti Fesztivál - Zselíz,2023-08-19T05:09:22.203Z,e450ac60-a824-43a1-baa7-83e1a05e674f,ZZZ,Slovakia,sk,221439808613538,Országos Népművészeti Fesztivál - Zselíz,Facebook
+787e87b8-fc56-4858-8f1e-d9673e71ffb3,To sme my,2023-03-15T10:55:46.659Z,8b2dea8c-90bf-41b5-8a75-737265b74ff8,ZZZ,Slovakia,sk,103379529144625,To sme my,Facebook
 b9633fcc-506a-4865-8c30-7c19c4d703d6,SkyShowtime Slovensko,2023-09-08T05:08:55.425Z,5943dd64-72a3-4f26-bfb2-fd3ebf167ce8,ZZZ,Slovakia,sk,105987589010388,SkyShowtime Slovensko,Facebook
 73cccf9d-6d04-44cc-bd9f-4a610fd03ebc,Detstvo bez násilia,2023-09-22T05:08:45.633Z,56e3dd5c-5845-4d87-b9d5-febc1cce9240,ZZZ,Slovakia,sk,106658612291527,Detstvo bez násilia,Facebook
 98296b65-7923-43b4-bb39-2843132dac2d,Radosť,2023-07-24T05:09:05.365Z,c7a283ce-5143-41bd-a7e4-fe2425dddee8,ZZZ,Slovakia,sk,103996278108347,Radosť,Facebook
@@ -842,16 +861,6 @@ ec67a536-09d7-4509-a4be-685e92b8a226,ARVAL Slovakia,2023-03-12T10:55:36.948Z,fc7
 a3edd180-6328-49ae-a168-c3172303fd84,Nadácia ZSE,2023-03-12T10:55:36.944Z,2f64375d-6b49-4fe7-a084-d0c26161486d,ZZZ,Slovakia,sk,1578280295823003,Nadácia ZSE,Facebook
 6c670f18-4cf1-4286-bc88-b03498fedf97,HYC - Hot Yoga Centrum,2023-03-12T10:55:36.911Z,15ed01f9-18ee-423b-9d64-e4db1d7f1d41,ZZZ,Slovakia,sk,574997519239391,HYC - Hot Yoga Centrum,Facebook
 bba781fc-cf0f-44d0-ab48-0dcc79749a4e,EXPLO GYM,2023-03-12T10:55:36.934Z,b7f228ad-2e75-4547-8d2b-a0714659180c,ZZZ,Slovakia,sk,865203160156374,EXPLO GYM,Facebook
-482e85ce-ea67-4daf-87ae-4e4e86f1fdb3,Senior Park n.o.,2023-03-12T10:55:37.060Z,d44596a1-3c78-4ed5-95b5-a26af815823f,ZZZ,Slovakia,sk,101070745463515,Senior Park n.o.,Facebook
-ea44dc96-40a7-44eb-9a59-2344637415ad,Coworking Cvernovka,2023-03-12T10:55:37.002Z,853a4dd2-3c50-4368-97f5-7da1517f9744,ZZZ,Slovakia,sk,646775048844426,Coworking Cvernovka,Facebook
-220461c6-91aa-4066-9baf-5d82eb7bab3e,Rezort Piešťany,2023-03-12T10:55:36.946Z,244ec5c6-7bfd-4dfd-8306-449c9e16c430,ZZZ,Slovakia,sk,338902212922565,Rezort Piešťany,Facebook
-0f9b2f4f-dda8-486f-bd3b-db14e507e150,Dedoles,2023-03-13T10:55:20.910Z,40429a52-0e84-4388-ae0f-69601404e09c,ZZZ,Slovakia,sk,121711061265840,Dedoles,Facebook
-923b4d44-3a19-47eb-b4af-2f3e5455544b,Parkovanie v Žiline,2023-03-13T10:55:20.812Z,2f1e8754-d568-443a-a931-d393f9d43614,ZZZ,Slovakia,sk,101240639122178,Parkovanie v Žiline,Facebook
-e1db7290-8896-4bfa-861f-3441e827cf75,My sme les,2023-03-13T10:55:20.774Z,8e53a9c3-c1b5-4778-9864-e865edc0219e,ZZZ,Slovakia,sk,1449806428460200,My sme les,Facebook
-8496adfc-a1ae-4714-a366-b7b434569ab8,ozdravme.sk,2023-03-13T10:55:20.874Z,b50a5ffa-4044-4b4f-aa9a-d4e95267e2f6,ZZZ,Slovakia,sk,106666545678536,ozdravme.sk,Facebook
-ab57b17c-3285-410a-acd2-fa9325fc81e0,Vagus,2023-03-13T10:55:20.789Z,ff1acffb-69d3-434f-81e1-52ef1fe3be42,ZZZ,Slovakia,sk,184459384971877,Vagus,Facebook
-131d42ac-e432-4095-991f-13dba235b139,DS Slovensko,2023-10-03T05:08:46.495Z,20f8187f-3efd-40ba-8eb9-faae76646967,ZZZ,Slovakia,sk,104856637549626,DS Slovensko,Facebook
-787e87b8-fc56-4858-8f1e-d9673e71ffb3,To sme my,2023-03-15T10:55:46.659Z,8b2dea8c-90bf-41b5-8a75-737265b74ff8,ZZZ,Slovakia,sk,103379529144625,To sme my,Facebook
 7a847190-6f9a-4766-9b84-5a1eb7c38d87,To je nápad,2023-03-15T10:55:46.633Z,60a35da1-5e36-48f9-b6b2-50893ce17b6c,ZZZ,Slovakia,sk,825548020851519,To je nápad,Facebook
 cc85cbe3-48b4-40bd-ba7c-96a2e3e97619,PUCUNG,2023-03-16T10:55:43.204Z,276661c4-1bfd-426d-9978-c9aa75a5397d,ZZZ,Slovakia,sk,1689615797972980,PUCUNG,Facebook
 32774e26-850b-407f-b6a0-3e95493674ee,Csongár Gergely - ETF Befektetési specialista,2023-03-17T10:55:42.711Z,91899b03-c0cf-4952-80ff-78099d941f97,ZZZ,Slovakia,sk,109901651438321,Csongár Gergely - ETF Befektetési specialista,Facebook
@@ -988,62 +997,6 @@ d33f9a54-ff66-44de-8799-19bf13dadd98,Vlna - urbánny splietací mág,2023-05-12T
 af10aea3-4cba-484f-910f-25b5de2d2efb,Kéfas,2023-05-12T06:54:49.495Z,a2adad11-c45e-44fc-9f84-5ce252df1967,ZZZ,Slovakia,sk,95297259381,Kéfas,Facebook
 19829347-5bbb-4722-a4a7-08ed4c171608,CITYLIFE.SK,2023-05-12T06:54:49.498Z,63d3ff16-2594-458e-af8a-027118d2d26e,ZZZ,Slovakia,sk,203747759773,CITYLIFE.SK,Facebook
 1bcd62cd-36e6-4ce4-9bcf-57d7e0594887,Autobazar.sk - automobilová inzercia,2023-05-13T06:55:33.572Z,8ca413cd-86fd-449a-81a8-164090c33ad9,ZZZ,Slovakia,sk,186627004726430,Autobazar.sk - automobilová inzercia,Facebook
-38de8e9f-52a5-4cce-a0d3-31f70c6b320c,Bystriny,2023-02-12T10:55:05.224Z,5383fd47-ef6f-4714-908c-64122418fd07,ZZZ,Slovakia,sk,106390307409654,Bystriny,Facebook
-62f9e81f-6d07-4a4a-9c42-0bcb0e036fde,čierna labuť,2023-02-12T10:55:05.205Z,8a22b6af-baa3-4bca-bb8f-0beb9d079047,ZZZ,Slovakia,sk,864297263644468,čierna labuť,Facebook
-a32e637a-ab50-4c7d-bbb3-3fb677fd4562,Odborové združenie sestier a pôrodných asistentiek,2023-02-12T10:55:05.219Z,1d112857-b27c-4061-83af-179e47f7e988,ZZZ,Slovakia,sk,938413666216392,Odborové združenie sestier a pôrodných asistentiek,Facebook
-0083e0c5-594e-4301-b7d4-a2873ec2f4e7,Liga za ľudské práva / Human Rights League,2023-02-12T10:55:05.220Z,1b197f95-6b81-4610-85ab-a85cf64a901b,ZZZ,Slovakia,sk,810794665738940,Liga za ľudské práva / Human Rights League,Facebook
-6c078901-9b4b-41fd-a577-e50d961b87ab,Hodos Község hivatalos oldala - Oficiálna stránka Obce Vydrany,2023-02-12T10:55:05.220Z,19e05586-c16d-4ab0-90dd-edbb12fffecb,ZZZ,Slovakia,sk,485871734945686,Hodos Község hivatalos oldala - Oficiálna stránka Obce Vydrany,Facebook
-a4b9114a-f5b4-4ce5-88e1-68e97c8403c9,Divadlo Kontra,2023-09-04T05:08:30.572Z,e173503d-cb82-40f8-b06c-0551e2c81c8e,ZZZ,Slovakia,sk,713821152097065,Divadlo Kontra,Facebook
-301e979b-f0f1-42de-b736-b30fce1e13bd,"Friedrich-Ebert-Stiftung, Zastúpenie v Slovenskej republike",2023-02-13T10:55:21.209Z,a915ca76-dfb7-4714-9110-74b6d1012d04,ZZZ,Slovakia,sk,1779011449074677,"Friedrich-Ebert-Stiftung, Zastúpenie v Slovenskej republike",Facebook
-725b3841-f1b0-4946-87aa-3a1a08ed9874,ESET,2023-02-13T10:55:21.092Z,38f07aac-e82c-478d-ab4f-5d4d0f50d98e,ZZZ,Slovakia,sk,186953775142661,ESET,Facebook
-c14c4c8e-7cf5-4f03-9c9d-7966ff98ef2d,Veci Verejné,2023-02-13T10:55:21.179Z,63fdd5d2-3f72-4ebe-b0e3-aedb2946d36b,ZZZ,Slovakia,sk,143423336065618,Veci Verejné,Facebook
-c4158558-278a-409e-8b6a-0ec7a88c476c,Schneider Electric,2023-02-13T10:55:21.101Z,219add1f-c25d-48b8-9d5b-c9ef835e5264,ZZZ,Slovakia,sk,566178043547804,Schneider Electric,Facebook
-81ec03bf-9e1b-40cf-949d-79bd2ea2880a,Bindics László,2023-02-13T10:55:21.213Z,a5377c7b-e8f4-4ab0-9d66-4d6b17dfafcb,ZZZ,Slovakia,sk,2109897839105854,Bindics László,Facebook
-79bd0cab-32b7-49ae-b60d-0741a7c0b506,Aktuality.sk,2023-02-08T05:55:41.648Z,88ed1542-f997-4fea-ae63-2bca06bdc611,ZZZ,Slovakia,sk,339528979423925,Aktuality.sk,Facebook
-5f5a16dd-35d2-48da-a175-81157ed6fbbb,Brainee.sk,2023-02-08T05:55:41.658Z,09966b75-1651-4f56-89e6-cf9a1eb6aa03,ZZZ,Slovakia,sk,109669047774695,Brainee.sk,Facebook
-5eeffd38-c3c6-4cc0-b387-200759529c4a,SPP - distribúcia,2023-02-08T05:55:41.676Z,96a5b29a-0728-4601-aba9-9daa40f1a06c,ZZZ,Slovakia,sk,1552624815015371,SPP - distribúcia,Facebook
-2de7dd6d-b18b-489b-bc76-c6bf65c20a75,Poradňa pre občianske a ľudské práva / Center for Civil and Human Rights,2023-02-13T10:55:21.194Z,b5de2579-2cd6-40c7-b91e-63f55070a0c9,ZZZ,Slovakia,sk,569734989747868,Poradňa pre občianske a ľudské práva / Center for Civil and Human Rights,Facebook
-52292998-5ac7-43bf-bf20-7f518e78e85a,Hospodárske noviny,2023-02-08T05:55:41.676Z,c31cbd93-0e37-49ab-8526-037538a24404,ZZZ,Slovakia,sk,53247283454,Hospodárske noviny,Facebook
-12680bcd-c65a-44b2-9356-37610da4b025,Sconto Nábytok,2023-02-08T05:55:41.676Z,7888e145-bfc2-4d93-a789-7558be3b9f36,ZZZ,Slovakia,sk,935929019771603,Sconto Nábytok,Facebook
-6712d430-0059-4361-9575-1a69b0bf6779,Za právny štát,2023-02-08T05:55:41.689Z,809a7dd4-31e7-4d5c-8202-8d6ddead71d3,ZZZ,Slovakia,sk,106092371358835,Za právny štát,Facebook
-38a72afc-877d-4ce9-82b5-a4200f20dd78,News and Media Holding,2023-06-11T06:54:50.330Z,479eb96d-e7c8-4fec-96c3-fff030ec1f66,ZZZ,Slovakia,sk,102812458608887,News and Media Holding,Facebook
-76d78213-a06e-47cb-8f92-ee491e34eae7,FCC Slovensko,2023-06-12T06:54:46.500Z,18d884e5-e730-4e26-8f58-cc9e5693abe2,ZZZ,Slovakia,sk,1385257378365767,FCC Slovensko,Facebook
-8b3deeda-461b-4b4e-ad05-d15aefded225,InterWay,2023-06-13T06:55:09.339Z,745905af-5cfd-4d72-942f-d4228f839adf,ZZZ,Slovakia,sk,146548335541117,InterWay,Facebook
-513a4d28-7090-41cf-a9f9-b3ee4e0130bb,Portu.sk,2023-06-13T06:55:09.251Z,a149cfb1-c8f8-472a-bd34-e7325db0dc25,ZZZ,Slovakia,sk,107995058683179,Portu.sk,Facebook
-1f176910-0224-41bb-86fa-6dd8f0891cc8,HOTEL PARK Dolný Kubín,2023-06-15T06:54:57.229Z,34e19647-4419-470f-ba50-52edd608273c,ZZZ,Slovakia,sk,224652627552207,HOTEL PARK Dolný Kubín,Facebook
-c04a3bb3-363f-4ed1-86e8-fd78ef8e0048,PX Music Legeds,2023-06-16T09:35:03.380Z,36c78f73-6234-46f1-bc40-c9e706429c8a,ZZZ,Slovakia,sk,108182665637079,PX Music Legeds,Facebook
-7bfad0e2-8ce2-42a5-ab0f-62dfd5a476cd,Viktorio.sk,2023-06-16T09:35:03.317Z,07540274-452e-49ad-9119-4b6d01bc1c68,ZZZ,Slovakia,sk,1186332518046660,Viktorio.sk,Facebook
-4b0a9558-faff-4c06-a5dd-999409899f7c,CVEK,2023-06-16T09:35:03.353Z,b677c394-6ca1-4413-91d6-ce9c538051e1,ZZZ,Slovakia,sk,354097737976444,CVEK,Facebook
-055c03e2-7ef7-42fb-9a85-27e1335ec645,"Marius Pedersen, Slovensko",2023-06-19T18:26:44.140Z,3628eb24-a444-4154-ab7a-ff8b6a305f6e,ZZZ,Slovakia,sk,827195593969832,"Marius Pedersen, Slovensko",Facebook
-aac626e8-6ed6-4d02-b485-26a2b58c585b,HORNBACH,2023-06-19T18:26:44.437Z,039f00d6-7eb5-4bb1-97b0-c01ae34994d5,ZZZ,Slovakia,sk,1374836119506730,HORNBACH,Facebook
-987233b8-29db-48ff-bf5a-dfdd5f80ac86,Svet medzi riadkami,2023-06-19T18:26:44.540Z,273274e2-d8d6-453a-aa85-53fe86b0cb0b,ZZZ,Slovakia,sk,1633067670277357,Svet medzi riadkami,Facebook
-adef11de-06ce-4360-adad-3fb17df0a0f2,Nanocore,2023-06-19T18:26:44.411Z,b239b788-547e-4ec3-8fd1-990549fa3cc6,ZZZ,Slovakia,sk,161134960904819,Nanocore,Facebook
-e34d5d0b-78b7-41eb-ae95-c5f7da44657e,Klimak,2023-06-19T18:26:44.423Z,1be7146e-aa29-4e00-af63-27ad594bb2f6,ZZZ,Slovakia,sk,316947551688271,Klimak,Facebook
-53e30ecb-c0af-4d89-ae9c-d10678c71537,Srdcom doma o.z.,2023-06-20T05:16:01.481Z,83130b25-be4c-4bd8-8677-e9d60950a826,ZZZ,Slovakia,sk,1790739387627100,Srdcom doma o.z.,Facebook
-4048bcd3-b855-4a08-96b7-41b928ac627b,Einpark by Corwin,2023-06-20T05:16:01.370Z,b6f09c78-52a9-455f-8b8f-6dd930a7ab29,ZZZ,Slovakia,sk,325349381412883,Einpark by Corwin,Facebook
-21026d29-14ab-4265-9077-612ab580b8b2,DHL Express Slovakia,2023-06-20T05:16:01.544Z,2db5bcd0-f39d-48c0-8d08-c0da8e2d8991,ZZZ,Slovakia,sk,37843439729,DHL Express Slovakia,Facebook
-446c3980-6e87-4398-a4bf-0e1e0d2f3d7a,Seesame,2023-06-20T05:16:01.530Z,949b1d62-3102-4be1-8dee-173a3b821d97,ZZZ,Slovakia,sk,93389637909,Seesame,Facebook
-e39b419e-afcd-4ee4-8861-0989982d5818,Levanduľan Trstice,2023-06-20T05:16:01.595Z,bdd2a0b8-33e7-415d-a4d9-17a6fa4a701f,ZZZ,Slovakia,sk,110208050881795,Levanduľan Trstice,Facebook
-c7f25bfe-42be-4b10-8a95-9290dc5f11ed,Alergológovia a imunológovia Slovenska,2023-06-24T06:49:19.138Z,4f848dc1-cd37-4036-b884-c099830fa602,ZZZ,Slovakia,sk,103723078371059,Alergológovia a imunológovia Slovenska,Facebook
-51548514-b866-46e6-bdb6-4a5d966e4088,Meghívó,2023-06-24T06:49:19.155Z,76d71ab7-c37e-4011-a535-8df9270b6eeb,ZZZ,Slovakia,sk,103473362400246,Meghívó,Facebook
-9ee4fa73-55c4-4068-bcb3-324ecb7f7f92,PS:Digital,2023-06-24T06:49:19.211Z,9fb6d6d8-ca76-4830-b60c-193e860ce62f,ZZZ,Slovakia,sk,235799503256533,PS:Digital,Facebook
-fd4fc567-463d-42c7-901d-fac2e8048c24,Učiaca sa Trnava,2023-06-24T06:49:19.157Z,4fe34258-3f10-4e07-a8db-97a61c182496,ZZZ,Slovakia,sk,102672265414901,Učiaca sa Trnava,Facebook
-3ed411e0-d063-4350-a9b9-3ecee967de07,FinQ program,2023-06-26T05:10:09.368Z,882f9a06-820b-4753-812c-0c8a01d6fb95,ZZZ,Slovakia,sk,120887877663453,FinQ program,Facebook
-28a32902-be9c-4d2f-8a6c-a5bfbb695e56,Osobný tréner Zvolen,2023-06-26T05:10:09.368Z,c26d3e8a-9517-41ba-a97a-629ae87733c6,ZZZ,Slovakia,sk,101500361320206,Osobný tréner Zvolen,Facebook
-e6731f55-d691-493b-a23b-d3db8928d7fa,Wetzler Institute,2023-06-27T06:58:57.170Z,330ea427-3d7b-4601-96a1-0057ad8ce166,ZZZ,Slovakia,sk,108904725116272,Wetzler Institute,Facebook
-90ec4a52-8578-4636-9493-db351a814689,"Nitra, milá Nitra",2023-06-27T06:58:57.184Z,df94a3f1-3568-4739-8aa3-27a85bd8dfda,ZZZ,Slovakia,sk,176705749169681,"Nitra, milá Nitra",Facebook
-2ef6d791-a662-47f8-9a77-534d0d4a947b,DAFilms SK,2023-06-30T05:09:29.982Z,89b53f36-b3af-48a4-b874-a632447a2ffd,ZZZ,Slovakia,sk,101497921375364,DAFilms SK,Facebook
-a773e1df-1b15-4b53-9a6f-c6effa62c058,"MIMA, n. o.",2023-06-30T05:09:29.994Z,fa44c9d8-a46a-4997-ab70-7ba1e39a97a6,ZZZ,Slovakia,sk,606447986123537,"MIMA, n. o.",Facebook
-10396e43-34ad-429e-80ae-e1e7a1075a8b,LACI STRIKE,2023-06-30T06:14:04.569Z,748e52e7-fac7-4b5f-835c-700dab0f4696,ZZZ,Slovakia,sk,115235834442,LACI STRIKE,Facebook
-f9449cc8-9f00-4b60-8767-e50a76fb1124,Žltý melón,2023-06-30T06:14:04.687Z,82974dc1-ff6d-4b99-a23e-a9d47f0ce81e,ZZZ,Slovakia,sk,120292514744288,Žltý melón,Facebook
-d093b6ff-bd6d-480b-bd87-e28830409df5,Kanisová & Kanis Advokátska kancelária sro,2023-06-30T06:14:04.649Z,2c11155a-38c8-4fcf-8a2c-a46df264fec3,ZZZ,Slovakia,sk,104833474496228,Kanisová & Kanis Advokátska kancelária sro,Facebook
-f68a5fae-2640-4109-8635-eef3f0043fea,Trenčín región,2023-07-03T06:17:40.638Z,4a3f1157-3bd8-4f3c-8fc6-c67ece748306,ZZZ,Slovakia,sk,493036940886408,Trenčín región,Facebook
-02a13bb8-bf75-40eb-9ab7-d67c95e85a58,AVIS Slovakia,2023-07-03T06:17:40.670Z,ad4474f2-07ca-49ca-97f0-defe3bf662b1,ZZZ,Slovakia,sk,237098802909,AVIS Slovakia,Facebook
-c576aee3-78e4-431d-8071-72e853f35d20,EMEFKA,2023-07-03T06:17:40.495Z,4beab673-4070-4cab-939b-c9eff887304a,ZZZ,Slovakia,sk,303307216547259,EMEFKA,Facebook
-b45cc977-57fe-419d-a27c-8e04f6e51e2d,Nario,2023-07-04T06:18:14.796Z,66e3e144-f2ac-442c-be20-2b7bc1abbc29,ZZZ,Slovakia,sk,1417693954961034,Nario,Facebook
-93059250-74d3-4f71-aeb0-ec473a5f96da,Braňo Záhradník - Váš karloveský poslanec,2023-07-04T06:18:14.836Z,f910a6bf-856d-4101-94c1-4126285e3a3c,ZZZ,Slovakia,sk,131197346629245,Braňo Záhradník - Váš karloveský poslanec,Facebook
-80528876-9583-478f-a6e9-81752cdcb039,Mesto Žilina,2023-07-04T06:18:14.875Z,f11bb114-c85e-46fb-bc44-aabfb954a3cc,ZZZ,Slovakia,sk,162541880519007,Mesto Žilina,Facebook
-5f4f2cba-b24f-492a-a898-13561f8e1b29,Robim na Vychodze,2023-07-04T06:18:14.856Z,a170f24c-dd98-45a8-a429-859b97251efd,ZZZ,Slovakia,sk,986856054856618,Robim na Vychodze,Facebook
 b1f235b4-dd6f-402b-a34f-18750419f635,Federácia Rodín za Mier a Jednotu vo Svete - pobočka Dunajská Lužná,2023-05-13T06:55:33.531Z,ada1cc7e-37ab-41be-b0ee-13d09421403a,ZZZ,Slovakia,sk,113320001751265,Federácia Rodín za Mier a Jednotu vo Svete - pobočka Dunajská Lužná,Facebook
 f7c1aca5-0e6c-4c20-9a09-4f0f07d955ce,WhizBe,2023-05-14T06:55:38.573Z,4078c17a-412a-417d-88e5-b0e48bff5232,ZZZ,Slovakia,sk,111522014493797,WhizBe,Facebook
 ece5f194-b5fc-4419-a6c9-a7ba33582713,Brendon Slovakia,2023-05-14T06:55:38.678Z,5705db5c-0967-4672-876e-172238446692,ZZZ,Slovakia,sk,104219256308456,Brendon Slovakia,Facebook
@@ -1101,49 +1054,96 @@ aa9b20ca-d4e8-4d91-8015-0d67042a2df5,EkoReštart.sk,2023-06-09T06:54:46.328Z,4cc
 40c4b139-b312-4bb9-9673-964d3ea83767,Štefan Mačák - finančný sprostredkovateľ,2023-06-10T06:54:38.451Z,c4f1fa8a-7fb1-4f25-84c2-9e5e2f271b88,ZZZ,Slovakia,sk,205696096521911,Štefan Mačák - finančný sprostredkovateľ,Facebook
 18c075ba-8a95-45fd-b055-1b476a88238e,Matchie,2023-06-10T06:54:38.469Z,96cbe5b9-039c-4b15-88f2-4ec3b02b0e51,ZZZ,Slovakia,sk,104068798900574,Matchie,Facebook
 5f93fed0-1b83-415f-9547-daacf8c0785b,Victory Travel,2023-06-11T06:54:50.236Z,17499832-6fd2-4971-8ccf-0e8ab391fcf4,ZZZ,Slovakia,sk,169050243105657,Victory Travel,Facebook
+38a72afc-877d-4ce9-82b5-a4200f20dd78,News and Media Holding,2023-06-11T06:54:50.330Z,479eb96d-e7c8-4fec-96c3-fff030ec1f66,ZZZ,Slovakia,sk,102812458608887,News and Media Holding,Facebook
+76d78213-a06e-47cb-8f92-ee491e34eae7,FCC Slovensko,2023-06-12T06:54:46.500Z,18d884e5-e730-4e26-8f58-cc9e5693abe2,ZZZ,Slovakia,sk,1385257378365767,FCC Slovensko,Facebook
+8b3deeda-461b-4b4e-ad05-d15aefded225,InterWay,2023-06-13T06:55:09.339Z,745905af-5cfd-4d72-942f-d4228f839adf,ZZZ,Slovakia,sk,146548335541117,InterWay,Facebook
+513a4d28-7090-41cf-a9f9-b3ee4e0130bb,Portu.sk,2023-06-13T06:55:09.251Z,a149cfb1-c8f8-472a-bd34-e7325db0dc25,ZZZ,Slovakia,sk,107995058683179,Portu.sk,Facebook
+1f176910-0224-41bb-86fa-6dd8f0891cc8,HOTEL PARK Dolný Kubín,2023-06-15T06:54:57.229Z,34e19647-4419-470f-ba50-52edd608273c,ZZZ,Slovakia,sk,224652627552207,HOTEL PARK Dolný Kubín,Facebook
+c04a3bb3-363f-4ed1-86e8-fd78ef8e0048,PX Music Legeds,2023-06-16T09:35:03.380Z,36c78f73-6234-46f1-bc40-c9e706429c8a,ZZZ,Slovakia,sk,108182665637079,PX Music Legeds,Facebook
+7bfad0e2-8ce2-42a5-ab0f-62dfd5a476cd,Viktorio.sk,2023-06-16T09:35:03.317Z,07540274-452e-49ad-9119-4b6d01bc1c68,ZZZ,Slovakia,sk,1186332518046660,Viktorio.sk,Facebook
+4b0a9558-faff-4c06-a5dd-999409899f7c,CVEK,2023-06-16T09:35:03.353Z,b677c394-6ca1-4413-91d6-ce9c538051e1,ZZZ,Slovakia,sk,354097737976444,CVEK,Facebook
+055c03e2-7ef7-42fb-9a85-27e1335ec645,"Marius Pedersen, Slovensko",2023-06-19T18:26:44.140Z,3628eb24-a444-4154-ab7a-ff8b6a305f6e,ZZZ,Slovakia,sk,827195593969832,"Marius Pedersen, Slovensko",Facebook
+aac626e8-6ed6-4d02-b485-26a2b58c585b,HORNBACH,2023-06-19T18:26:44.437Z,039f00d6-7eb5-4bb1-97b0-c01ae34994d5,ZZZ,Slovakia,sk,1374836119506730,HORNBACH,Facebook
+987233b8-29db-48ff-bf5a-dfdd5f80ac86,Svet medzi riadkami,2023-06-19T18:26:44.540Z,273274e2-d8d6-453a-aa85-53fe86b0cb0b,ZZZ,Slovakia,sk,1633067670277357,Svet medzi riadkami,Facebook
+adef11de-06ce-4360-adad-3fb17df0a0f2,Nanocore,2023-06-19T18:26:44.411Z,b239b788-547e-4ec3-8fd1-990549fa3cc6,ZZZ,Slovakia,sk,161134960904819,Nanocore,Facebook
+e34d5d0b-78b7-41eb-ae95-c5f7da44657e,Klimak,2023-06-19T18:26:44.423Z,1be7146e-aa29-4e00-af63-27ad594bb2f6,ZZZ,Slovakia,sk,316947551688271,Klimak,Facebook
+53e30ecb-c0af-4d89-ae9c-d10678c71537,Srdcom doma o.z.,2023-06-20T05:16:01.481Z,83130b25-be4c-4bd8-8677-e9d60950a826,ZZZ,Slovakia,sk,1790739387627100,Srdcom doma o.z.,Facebook
+4048bcd3-b855-4a08-96b7-41b928ac627b,Einpark by Corwin,2023-06-20T05:16:01.370Z,b6f09c78-52a9-455f-8b8f-6dd930a7ab29,ZZZ,Slovakia,sk,325349381412883,Einpark by Corwin,Facebook
+21026d29-14ab-4265-9077-612ab580b8b2,DHL Express Slovakia,2023-06-20T05:16:01.544Z,2db5bcd0-f39d-48c0-8d08-c0da8e2d8991,ZZZ,Slovakia,sk,37843439729,DHL Express Slovakia,Facebook
+446c3980-6e87-4398-a4bf-0e1e0d2f3d7a,Seesame,2023-06-20T05:16:01.530Z,949b1d62-3102-4be1-8dee-173a3b821d97,ZZZ,Slovakia,sk,93389637909,Seesame,Facebook
+e39b419e-afcd-4ee4-8861-0989982d5818,Levanduľan Trstice,2023-06-20T05:16:01.595Z,bdd2a0b8-33e7-415d-a4d9-17a6fa4a701f,ZZZ,Slovakia,sk,110208050881795,Levanduľan Trstice,Facebook
+c7f25bfe-42be-4b10-8a95-9290dc5f11ed,Alergológovia a imunológovia Slovenska,2023-06-24T06:49:19.138Z,4f848dc1-cd37-4036-b884-c099830fa602,ZZZ,Slovakia,sk,103723078371059,Alergológovia a imunológovia Slovenska,Facebook
+51548514-b866-46e6-bdb6-4a5d966e4088,Meghívó,2023-06-24T06:49:19.155Z,76d71ab7-c37e-4011-a535-8df9270b6eeb,ZZZ,Slovakia,sk,103473362400246,Meghívó,Facebook
+9ee4fa73-55c4-4068-bcb3-324ecb7f7f92,PS:Digital,2023-06-24T06:49:19.211Z,9fb6d6d8-ca76-4830-b60c-193e860ce62f,ZZZ,Slovakia,sk,235799503256533,PS:Digital,Facebook
+fd4fc567-463d-42c7-901d-fac2e8048c24,Učiaca sa Trnava,2023-06-24T06:49:19.157Z,4fe34258-3f10-4e07-a8db-97a61c182496,ZZZ,Slovakia,sk,102672265414901,Učiaca sa Trnava,Facebook
+3ed411e0-d063-4350-a9b9-3ecee967de07,FinQ program,2023-06-26T05:10:09.368Z,882f9a06-820b-4753-812c-0c8a01d6fb95,ZZZ,Slovakia,sk,120887877663453,FinQ program,Facebook
+28a32902-be9c-4d2f-8a6c-a5bfbb695e56,Osobný tréner Zvolen,2023-06-26T05:10:09.368Z,c26d3e8a-9517-41ba-a97a-629ae87733c6,ZZZ,Slovakia,sk,101500361320206,Osobný tréner Zvolen,Facebook
+e6731f55-d691-493b-a23b-d3db8928d7fa,Wetzler Institute,2023-06-27T06:58:57.170Z,330ea427-3d7b-4601-96a1-0057ad8ce166,ZZZ,Slovakia,sk,108904725116272,Wetzler Institute,Facebook
+90ec4a52-8578-4636-9493-db351a814689,"Nitra, milá Nitra",2023-06-27T06:58:57.184Z,df94a3f1-3568-4739-8aa3-27a85bd8dfda,ZZZ,Slovakia,sk,176705749169681,"Nitra, milá Nitra",Facebook
+2ef6d791-a662-47f8-9a77-534d0d4a947b,DAFilms SK,2023-06-30T05:09:29.982Z,89b53f36-b3af-48a4-b874-a632447a2ffd,ZZZ,Slovakia,sk,101497921375364,DAFilms SK,Facebook
+a773e1df-1b15-4b53-9a6f-c6effa62c058,"MIMA, n. o.",2023-06-30T05:09:29.994Z,fa44c9d8-a46a-4997-ab70-7ba1e39a97a6,ZZZ,Slovakia,sk,606447986123537,"MIMA, n. o.",Facebook
+10396e43-34ad-429e-80ae-e1e7a1075a8b,LACI STRIKE,2023-06-30T06:14:04.569Z,748e52e7-fac7-4b5f-835c-700dab0f4696,ZZZ,Slovakia,sk,115235834442,LACI STRIKE,Facebook
+f9449cc8-9f00-4b60-8767-e50a76fb1124,Žltý melón,2023-06-30T06:14:04.687Z,82974dc1-ff6d-4b99-a23e-a9d47f0ce81e,ZZZ,Slovakia,sk,120292514744288,Žltý melón,Facebook
+d093b6ff-bd6d-480b-bd87-e28830409df5,Kanisová & Kanis Advokátska kancelária sro,2023-06-30T06:14:04.649Z,2c11155a-38c8-4fcf-8a2c-a46df264fec3,ZZZ,Slovakia,sk,104833474496228,Kanisová & Kanis Advokátska kancelária sro,Facebook
+f68a5fae-2640-4109-8635-eef3f0043fea,Trenčín región,2023-07-03T06:17:40.638Z,4a3f1157-3bd8-4f3c-8fc6-c67ece748306,ZZZ,Slovakia,sk,493036940886408,Trenčín región,Facebook
+02a13bb8-bf75-40eb-9ab7-d67c95e85a58,AVIS Slovakia,2023-07-03T06:17:40.670Z,ad4474f2-07ca-49ca-97f0-defe3bf662b1,ZZZ,Slovakia,sk,237098802909,AVIS Slovakia,Facebook
+c576aee3-78e4-431d-8071-72e853f35d20,EMEFKA,2023-07-03T06:17:40.495Z,4beab673-4070-4cab-939b-c9eff887304a,ZZZ,Slovakia,sk,303307216547259,EMEFKA,Facebook
+b45cc977-57fe-419d-a27c-8e04f6e51e2d,Nario,2023-07-04T06:18:14.796Z,66e3e144-f2ac-442c-be20-2b7bc1abbc29,ZZZ,Slovakia,sk,1417693954961034,Nario,Facebook
+93059250-74d3-4f71-aeb0-ec473a5f96da,Braňo Záhradník - Váš karloveský poslanec,2023-07-04T06:18:14.836Z,f910a6bf-856d-4101-94c1-4126285e3a3c,ZZZ,Slovakia,sk,131197346629245,Braňo Záhradník - Váš karloveský poslanec,Facebook
+80528876-9583-478f-a6e9-81752cdcb039,Mesto Žilina,2023-07-04T06:18:14.875Z,f11bb114-c85e-46fb-bc44-aabfb954a3cc,ZZZ,Slovakia,sk,162541880519007,Mesto Žilina,Facebook
+5f4f2cba-b24f-492a-a898-13561f8e1b29,Robim na Vychodze,2023-07-04T06:18:14.856Z,a170f24c-dd98-45a8-a429-859b97251efd,ZZZ,Slovakia,sk,986856054856618,Robim na Vychodze,Facebook
 d65299d4-aa36-4c0b-b3a0-484bf0a88a5f,Simplea Financial Services,2023-11-07T05:08:47.018Z,28caaa9d-16c9-4128-8094-4783dc2c6e95,ZZZ,Slovakia,sk,102321585580487,Simplea Financial Services,Facebook
+482e85ce-ea67-4daf-87ae-4e4e86f1fdb3,Senior Park n.o.,2023-03-12T10:55:37.060Z,d44596a1-3c78-4ed5-95b5-a26af815823f,ZZZ,Slovakia,sk,101070745463515,Senior Park n.o.,Facebook
+ea44dc96-40a7-44eb-9a59-2344637415ad,Coworking Cvernovka,2023-03-12T10:55:37.002Z,853a4dd2-3c50-4368-97f5-7da1517f9744,ZZZ,Slovakia,sk,646775048844426,Coworking Cvernovka,Facebook
+220461c6-91aa-4066-9baf-5d82eb7bab3e,Rezort Piešťany,2023-03-12T10:55:36.946Z,244ec5c6-7bfd-4dfd-8306-449c9e16c430,ZZZ,Slovakia,sk,338902212922565,Rezort Piešťany,Facebook
+0f9b2f4f-dda8-486f-bd3b-db14e507e150,Dedoles,2023-03-13T10:55:20.910Z,40429a52-0e84-4388-ae0f-69601404e09c,ZZZ,Slovakia,sk,121711061265840,Dedoles,Facebook
+923b4d44-3a19-47eb-b4af-2f3e5455544b,Parkovanie v Žiline,2023-03-13T10:55:20.812Z,2f1e8754-d568-443a-a931-d393f9d43614,ZZZ,Slovakia,sk,101240639122178,Parkovanie v Žiline,Facebook
+e1db7290-8896-4bfa-861f-3441e827cf75,My sme les,2023-03-13T10:55:20.774Z,8e53a9c3-c1b5-4778-9864-e865edc0219e,ZZZ,Slovakia,sk,1449806428460200,My sme les,Facebook
+8496adfc-a1ae-4714-a366-b7b434569ab8,ozdravme.sk,2023-03-13T10:55:20.874Z,b50a5ffa-4044-4b4f-aa9a-d4e95267e2f6,ZZZ,Slovakia,sk,106666545678536,ozdravme.sk,Facebook
+ab57b17c-3285-410a-acd2-fa9325fc81e0,Vagus,2023-03-13T10:55:20.789Z,ff1acffb-69d3-434f-81e1-52ef1fe3be42,ZZZ,Slovakia,sk,184459384971877,Vagus,Facebook
+131d42ac-e432-4095-991f-13dba235b139,DS Slovensko,2023-10-03T05:08:46.495Z,20f8187f-3efd-40ba-8eb9-faae76646967,ZZZ,Slovakia,sk,104856637549626,DS Slovensko,Facebook
 fdcbec7f-bc5c-48d0-b46f-201231296cbf,Future Fund,2024-01-07T05:08:22.943Z,3d62525e-e89a-45a9-bbec-ec0b1a29634a,ZZZ,Slovakia,sk,102921589449091,Future Fund,Facebook
-f76f18fc-dded-43bb-b5b5-f215cdea31f2,Historické darčeky,2023-11-10T05:08:41.038Z,350a3e58-3300-4116-b7ee-3677b753711b,ZZZ,Slovakia,sk,196970324392694,Historické darčeky,Facebook
 7211222e-a266-48f0-a35f-3f4d508b8822,Solauric,2023-11-10T05:08:41.016Z,b5e853dd-06ff-4336-8d4e-87d3353eb732,ZZZ,Slovakia,sk,104506878738833,Solauric,Facebook
+f76f18fc-dded-43bb-b5b5-f215cdea31f2,Historické darčeky,2023-11-10T05:08:41.038Z,350a3e58-3300-4116-b7ee-3677b753711b,ZZZ,Slovakia,sk,196970324392694,Historické darčeky,Facebook
 f6e47619-a7b0-4bdd-a4e7-46c17d7a70f2,katyb_mua,2023-10-26T05:08:52.365Z,abf21d41-ee3c-4f16-9bf3-1c7c73b68831,ZZZ,Slovakia,sk,110315331994835,katyb_mua,Facebook
 7a7dd0e3-70eb-4b32-a8b7-132606715e95,Puffy Joe‘s Records,2023-12-20T05:08:47.508Z,464de00a-dc97-4759-af02-1b8fae6c887e,ZZZ,Slovakia,sk,109384878088719,Puffy Joe‘s Records,Facebook
-cde3156e-2ee5-45f6-ac38-34c258227aa4,InvestingFox,2023-11-03T05:08:55.707Z,5c834326-0f70-4b2d-a562-29cbf39b78d9,ZZZ,Slovakia,sk,134538796405968,InvestingFox,Facebook
 d6bb83d4-4a9d-4699-9a34-963c00bb5763,Ritzy Resort,2023-12-05T05:08:49.154Z,02fc54f5-a9d0-458b-a35f-6f7fd1757726,ZZZ,Slovakia,sk,106047675582910,Ritzy Resort,Facebook
+cde3156e-2ee5-45f6-ac38-34c258227aa4,InvestingFox,2023-11-03T05:08:55.707Z,5c834326-0f70-4b2d-a562-29cbf39b78d9,ZZZ,Slovakia,sk,134538796405968,InvestingFox,Facebook
 102be1f0-6480-4b78-ac89-3f8ec76fc82c,veronikanguyen_,2023-12-11T05:08:31.554Z,6ef7f395-8213-4ab5-b580-a805a41d85d3,ZZZ,Slovakia,sk,103981482545026,veronikanguyen_,Facebook
 e8c3a189-d674-490c-945f-a354f17c5040,We Love Nagymegyer,2023-12-11T05:08:31.566Z,6e11cc21-14ec-4690-970d-046078746706,ZZZ,Slovakia,sk,1971717626464641,We Love Nagymegyer,Facebook
-e1ca39cc-fe12-4300-8c25-06bebc19fbcf,SILNÉ REČI stand-up comedy show,2023-11-12T05:08:50.943Z,56521204-6b97-4929-bc58-7cfd59d27f58,ZZZ,Slovakia,sk,209327482089,SILNÉ REČI stand-up comedy show,Facebook
-9ee10715-91b0-4b47-9a96-87dcaca3be95,Tibor Paulík - realitný partner,2024-01-22T05:08:32.868Z,a3283028-38e7-4e1a-bbf9-b004b0d328ab,ZZZ,Slovakia,sk,105994478379440,Tibor Paulík - realitný partner,Facebook
-ef1850f8-b114-498f-9fad-3c5eb53eb28c,Asociácia hotelov a reštaurácií Slovenska,2023-11-12T05:08:50.926Z,10992fb4-2074-4468-a4ff-2ae68949092a,ZZZ,Slovakia,sk,811797775504214,Asociácia hotelov a reštaurácií Slovenska,Facebook
 0ea01b27-0de5-45de-aaae-4df2729cd0a9,Novice danes,2023-11-03T05:08:55.601Z,d416cabf-a070-44e8-af6d-197e0e9a10cf,ZZZ,Slovakia,sk,144935415373141,Novice danes,Facebook
+e1ca39cc-fe12-4300-8c25-06bebc19fbcf,SILNÉ REČI stand-up comedy show,2023-11-12T05:08:50.943Z,56521204-6b97-4929-bc58-7cfd59d27f58,ZZZ,Slovakia,sk,209327482089,SILNÉ REČI stand-up comedy show,Facebook
 cdeb476b-1c41-4674-b90e-1880da035b7a,Visit Košice,2023-11-13T05:09:36.078Z,a75a4a1a-abdc-46ee-a83e-ba71964b3269,ZZZ,Slovakia,sk,140831155939489,Visit Košice,Facebook
 863d720b-68cc-43bd-bb44-5715be7d93a2,Ahoj Bardejov,2023-06-15T06:54:57.266Z,fba429eb-c1c5-42e7-9817-51ded8fe0fa2,ZZZ,Slovakia,sk,658420007533721,Ahoj Bardejov,Facebook
+9ee10715-91b0-4b47-9a96-87dcaca3be95,Tibor Paulík - realitný partner,2024-01-22T05:08:32.868Z,a3283028-38e7-4e1a-bbf9-b004b0d328ab,ZZZ,Slovakia,sk,105994478379440,Tibor Paulík - realitný partner,Facebook
+ef1850f8-b114-498f-9fad-3c5eb53eb28c,Asociácia hotelov a reštaurácií Slovenska,2023-11-12T05:08:50.926Z,10992fb4-2074-4468-a4ff-2ae68949092a,ZZZ,Slovakia,sk,811797775504214,Asociácia hotelov a reštaurácií Slovenska,Facebook
+d6dab4b3-2aa0-4dfe-ae85-d47a8d1ab87a,Transparency International Slovensko,2023-03-08T14:47:48.863Z,d8f28236-041c-4984-85bc-e4cdacd79353,ZZZ,Slovakia,sk,277077069455,Transparency International Slovensko,Facebook
 7c7fe3d5-6de4-4e8e-be0a-ebcf0eec1c7c,TRUST Women Slovakia,2023-10-14T05:08:43.403Z,bf5a032c-e230-4386-bb71-538cc890f7bb,ZZZ,Slovakia,sk,299677767301238,TRUST Women Slovakia,Facebook
 7457d86f-6bea-4ad7-9aaf-08217b1913e7,TRIAD Advertising,2023-11-19T05:08:36.072Z,717f9b28-1eb5-4abe-aea0-0b320750753f,ZZZ,Slovakia,sk,44822873998,TRIAD Advertising,Facebook
-1d5f6d3c-a933-44a2-add2-8d1ff5130010,Events in the country,2023-10-24T05:08:51.224Z,421a296b-bed3-4e5d-ad6e-7988766e6ceb,ZZZ,Slovakia,sk,108970882168211,Events in the country,Facebook
-cbf08b81-ff39-46c0-a5a0-0ea982505889,Liptov Hub,2023-03-24T10:55:30.893Z,826125a7-3a9c-4bd8-8beb-9f0a25081913,ZZZ,Slovakia,sk,105996804353830,Liptov Hub,Facebook
-bb108f9e-3016-4b0c-b8db-2e9a25cbabfd,East Mag,2023-12-22T05:08:37.594Z,f964a09c-e223-40e3-ae30-d8c32c9c472a,ZZZ,Slovakia,sk,157793108395559,East Mag,Facebook
-5b2f49c0-2c10-4628-842d-76c63cfe9d78,Zem a vek fan klub,2023-12-20T05:08:47.663Z,fbc1f661-d5c3-4803-b798-ad90cd434143,ZZZ,Slovakia,sk,110432681214232,Zem a vek fan klub,Facebook
-1ab12fd5-e447-40f2-9347-f3487d23795b,Future Army,2023-11-20T07:08:53.769Z,136acf21-c4e2-47a8-b3f6-b8d1a096925a,ZZZ,Slovakia,sk,111603628540571,Future Army,Facebook
-adcb6723-673e-42f5-a89d-75101d0c3209,StartLab,2023-03-08T14:47:48.884Z,0433f5a9-d946-4ff2-8208-0fbc157a2b30,ZZZ,Slovakia,sk,1571074586493645,StartLab,Facebook
-d6dab4b3-2aa0-4dfe-ae85-d47a8d1ab87a,Transparency International Slovensko,2023-03-08T14:47:48.863Z,d8f28236-041c-4984-85bc-e4cdacd79353,ZZZ,Slovakia,sk,277077069455,Transparency International Slovensko,Facebook
 2b3eafef-829b-4e2c-ab3a-816a29b774b7,Romano fórum,2023-02-21T10:55:17.389Z,d081fcdc-91dd-41ef-b55a-ce0be11210a5,ZZZ,Slovakia,sk,101630718580212,Romano fórum,Facebook
 17cbbeb7-76ec-4f22-bee6-ff1cc833da4b,Lunter,2023-10-29T05:09:12.080Z,d21aaef4-61ed-4d2f-84e1-3878269d8690,ZZZ,Slovakia,sk,156670725729,Lunter,Facebook
+1d5f6d3c-a933-44a2-add2-8d1ff5130010,Events in the country,2023-10-24T05:08:51.224Z,421a296b-bed3-4e5d-ad6e-7988766e6ceb,ZZZ,Slovakia,sk,108970882168211,Events in the country,Facebook
 f1d8bb29-58ee-4a53-bcca-56c8bc6b012f,Chillout Bar Nitra,2023-10-04T05:08:51.060Z,c0a73c34-6cea-4710-80c9-16b6f165046b,ZZZ,Slovakia,sk,116640584712401,Chillout Bar Nitra,Facebook
+cbf08b81-ff39-46c0-a5a0-0ea982505889,Liptov Hub,2023-03-24T10:55:30.893Z,826125a7-3a9c-4bd8-8beb-9f0a25081913,ZZZ,Slovakia,sk,105996804353830,Liptov Hub,Facebook
 2b947f2b-a8bf-4f3a-a1cb-98b4addf488f,Tomáš Köppl - Demokrati,2023-12-20T05:08:47.564Z,6f2cc3de-b3eb-4dfb-8d8b-265aa065f0eb,D,Slovakia,sk,100196311600238,Tomáš Köppl - Demokrati,Facebook
+bb108f9e-3016-4b0c-b8db-2e9a25cbabfd,East Mag,2023-12-22T05:08:37.594Z,f964a09c-e223-40e3-ae30-d8c32c9c472a,ZZZ,Slovakia,sk,157793108395559,East Mag,Facebook
+5b2f49c0-2c10-4628-842d-76c63cfe9d78,Zem a vek fan klub,2023-12-20T05:08:47.663Z,fbc1f661-d5c3-4803-b798-ad90cd434143,ZZZ,Slovakia,sk,110432681214232,Zem a vek fan klub,Facebook
 8d7e69e1-5ab4-44f2-ae3f-797e49b131e4,rodinka.sk - babetko.sk,2023-05-28T06:54:38.089Z,cc552e94-5104-4524-9c5a-add1830289e7,ZZZ,Slovakia,sk,24979824425,rodinka.sk - babetko.sk,Facebook
 0b35e114-49d6-4d23-958a-97e59b801b70,Na rovinu,2023-02-28T10:55:32.751Z,203fa8f2-ff67-48cc-b21a-a19a9073bec8,ZZZ,Slovakia,sk,1694128984239347,Na rovinu,Facebook
+1ab12fd5-e447-40f2-9347-f3487d23795b,Future Army,2023-11-20T07:08:53.769Z,136acf21-c4e2-47a8-b3f6-b8d1a096925a,ZZZ,Slovakia,sk,111603628540571,Future Army,Facebook
 5d82f451-ac7f-4d7a-ba8d-b9b2faa8a26e,Campaign For Freedom,2023-09-22T04:05:52.858Z,997dea43-cf5c-47e6-9fe2-71543a693b49,ZZZ,Slovakia,sk,102273272923533,Campaign For Freedom,Facebook
-ea86e6ad-b510-4cc9-aa2c-05531e17df15,MURUM,2024-02-19T08:18:00.667Z,1dff0ec9-3315-42f9-969f-52d72df0cbb6,ZZZ,Slovakia,sk,224372377431407,MURUM,Facebook
-8fd2f5eb-b2d4-4470-acab-2548ab52280b,ProFin Experts,2023-12-15T05:08:59.219Z,2fea56ba-99e5-4b61-a39a-a611551bcc48,ZZZ,Slovakia,sk,104326519385581,ProFin Experts,Facebook
+adcb6723-673e-42f5-a89d-75101d0c3209,StartLab,2023-03-08T14:47:48.884Z,0433f5a9-d946-4ff2-8208-0fbc157a2b30,ZZZ,Slovakia,sk,1571074586493645,StartLab,Facebook
 f3bfdcd7-c333-4614-a932-38ec382b18ea,Okazio,2023-11-05T06:18:05.919Z,3ac09179-a480-4337-8996-389c7015eb50,ZZZ,Slovakia,sk,108837905330367,Okazio,Facebook
+ea86e6ad-b510-4cc9-aa2c-05531e17df15,MURUM,2024-02-19T08:18:00.667Z,1dff0ec9-3315-42f9-969f-52d72df0cbb6,ZZZ,Slovakia,sk,224372377431407,MURUM,Facebook
 ae55949c-c58e-47de-b7b5-978ec7867025,SEAT,2023-12-21T05:08:28.361Z,53a9873e-b231-4fcd-ab00-7258b0302234,ZZZ,Slovakia,sk,320506657965637,SEAT,Facebook
+8fd2f5eb-b2d4-4470-acab-2548ab52280b,ProFin Experts,2023-12-15T05:08:59.219Z,2fea56ba-99e5-4b61-a39a-a611551bcc48,ZZZ,Slovakia,sk,104326519385581,ProFin Experts,Facebook
 f86aec97-0dcc-4595-8b84-c5d98bd02d9e,"Centrum Slniečko, n.o.",2023-11-07T05:08:47.143Z,4c0d0d66-9e0a-4ce3-b845-02c3fa2aa8dc,ZZZ,Slovakia,sk,180245161995505,"Centrum Slniečko, n.o.",Facebook
 78b7d3c8-f8fc-4887-82a8-64779573084c,Metropolis - mestské bývanie vo vysokom štandarde,2023-10-31T05:45:57.042Z,d37530e8-4edd-4233-96f1-771e78edecaf,ZZZ,Slovakia,sk,142985342233755,Metropolis - mestské bývanie vo vysokom štandarde,Facebook
 939fe38e-30f3-45bb-a5c2-287621a244bd,Invelity,2023-12-17T05:08:41.136Z,f7ae24ad-cf62-4c05-b977-848f69ce71ea,ZZZ,Slovakia,sk,164296720274564,Invelity,Facebook
+93997feb-712a-4e79-b9ba-ecde9866f221,Múzeum obetí komunizmu,2023-11-13T05:09:36.073Z,0d870792-8b3a-4362-b5db-719d56dee71f,ZZZ,Slovakia,sk,100628505316999,Múzeum obetí komunizmu,Facebook
 1d3b1838-059d-4799-b803-eeb83eda6b35,KEY ART Agency,2023-11-17T06:48:43.308Z,8d04739e-1412-4dde-8159-f24e24599604,ZZZ,Slovakia,sk,323560817693457,KEY ART Agency,Facebook
 b11b4ba1-4ce3-4262-acc7-8007f811905f,Schill Dental Clinic,2023-11-20T07:08:53.702Z,bb9cd446-7397-409d-9268-c17e39347afa,ZZZ,Slovakia,sk,346464718830587,Schill Dental Clinic,Facebook
+a8cf30d2-2f5d-4d35-8775-b4b219be6b3f,GOPAS SR,2024-01-20T05:08:48.797Z,e08e9f04-5233-4b52-a6ea-001f01e75b9e,ZZZ,Slovakia,sk,410677558994019,GOPAS SR,Facebook
 dfc2d134-eb2c-49ef-ba76-22cb1a624566,Bosch Slovensko,2023-11-27T07:59:11.271Z,fb60b2be-d6d0-4c9b-be06-a5904ba3ff1d,ZZZ,Slovakia,sk,1582595615402387,Bosch Slovensko,Facebook
 5ab93a30-3f0a-4741-b760-74bc8a480d2a,Ako To Je,2024-01-06T05:08:49.619Z,de400e7a-f0ce-4f03-a1d1-a967ef9bd796,ZZZ,Slovakia,sk,101595709002019,Ako To Je,Facebook
 9d58a3fe-b554-4916-8b90-e725c33c2991,Ahoj Košice,2023-08-28T05:08:19.456Z,f59f4677-c4c8-4d9a-bea6-d4972ce9d58c,ZZZ,Slovakia,sk,102837355456653,Ahoj Košice,Facebook
-93997feb-712a-4e79-b9ba-ecde9866f221,Múzeum obetí komunizmu,2023-11-13T05:09:36.073Z,0d870792-8b3a-4362-b5db-719d56dee71f,ZZZ,Slovakia,sk,100628505316999,Múzeum obetí komunizmu,Facebook
-a8cf30d2-2f5d-4d35-8775-b4b219be6b3f,GOPAS SR,2024-01-20T05:08:48.797Z,e08e9f04-5233-4b52-a6ea-001f01e75b9e,ZZZ,Slovakia,sk,410677558994019,GOPAS SR,Facebook
